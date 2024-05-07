@@ -1,0 +1,378 @@
+@import url('https://fonts.googleapis.com/css2?family=Jersey+25&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    min-height: 100vh;
+    font-family: "Roboto", sans-serif;
+    overflow-x: hidden;
+    /* background: linear-gradient(to bottom, rgba(217, 221, 102, 0.434) , #fff, rgba(209, 221, 102, 0.125), #fff); */
+}
+header{
+    /* color: #06032a; */
+}
+
+
+.fly-safety-background-video {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    /* height: 40vh; */
+    height: 400px;
+    overflow: hidden;  /*Ensure the video does not overflow its container */
+    background-color: rgba(7, 22, 30, 0.465);
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.825), transparent);
+}
+
+.fly-safety-background-video video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: auto;
+    min-height: 100%; /* Ensure the video covers the entire container width */
+    z-index: -1; /* Ensure the video is behind other content */
+}
+.menu li a{
+    /* color: #06032a; */
+    transition: 0.5s;
+}
+.menu li a:hover{
+    /* font-weight: bold; */
+}
+
+
+/* main */
+.section1{
+    position: relative;
+    margin: 10px;
+    padding: 10px;
+    margin-top: 80px;
+}
+.intro-title{
+    text-align: center;
+    font-size: 3rem;
+    /* color: #06032a; */
+    color: #fff;
+    font-family: "Jersey 25", sans-serif;
+    letter-spacing: 1px;
+    animation: fly-safety-main-intro 1s ease forwards;
+
+    
+}
+
+
+/* --------------------------------- */
+/*            why with us            */
+/* --------------------------------- */
+.why-with-us{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    backdrop-filter: blur(20px);
+    color: #000;
+    background-color: rgba(255, 255, 255, 0.725);
+    margin-top: 100px;
+    padding: 40px 10px;
+    background: linear-gradient(to bottom, #fff, rgba(102, 166, 221, 0.434));
+    /* background: linear-gradient(to bottom, #fff, rgba(117, 169, 13, 0.382)); */
+    /* box-shadow: 0px -20px 200px black; */
+}
+.why-with-us-intro-texts-container{
+    max-width: 50%;
+    margin: 5px;
+    padding: 5px;
+    animation: why-with-us-move 1s ease forwards;
+    
+}
+
+.intro{
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    padding-left: 20px;
+}
+.intro div{
+    width: 80px;
+    height: 3px;
+    background-color: rgb(28, 141, 156);
+    border-radius: 50px;
+    /* background-color: #fff; */
+    z-index: 99;
+    margin: 10px;
+}
+.intro p{
+    margin: 5px 10px;
+    padding: 5px;
+    font-size: 1.2rem;
+    
+}
+
+/* texts */
+.why-with-us-texts{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.why-with-us-texts p{
+    font-size: 2rem;
+    margin: 5px 0px;
+    padding: 5px 0px;
+    font-family: "Jersey 25", sans-serif;
+}
+
+/* ul */
+.why-with-us-texts ul{
+    margin: 5px;
+    padding: 5px;
+    /* color: #fff; */
+    z-index: 99;
+    
+}
+
+.why-with-us-texts ul li{
+    width: 90%;
+    margin: 0;
+	padding: 15px 0 15px 54px;
+	list-style: none;
+	background-image: url("/icons/send-mark-removebg-preview.png");
+	background-repeat: no-repeat;
+	background-position: left center;
+	background-size: 40px;
+    letter-spacing: 1px;
+    line-height: 27px;
+    filter: brightness(0.5);
+    
+}
+.why-with-us iframe{
+    margin: 10px;
+    border-radius: 10px;
+    margin-top: 40px;
+    animation: why-with-us-video-move 1s ease forwards;
+
+    
+}
+
+
+/* comfort and quality */
+.comfort-and-quality{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background: linear-gradient(to top, #fff, rgba(102, 166, 221, 0.22)); */
+    background: linear-gradient(to top, #fff, rgba(102, 166, 221, 0.434));
+    padding: 30px 10px;
+
+}
+.comfort-intro{
+    /* width: 30%; */
+    max-width: 40rem;
+    margin: 10px;
+    padding: 10px;
+}
+.comfort-intro p{
+    margin: 5px 10px;
+    padding: 5px;
+    font-size: 2rem;
+    font-family: "Jersey 25", sans-serif;
+}
+
+.comfort-intro ul li{
+    max-width: 90%;
+    margin: 0;
+	padding: 10px 0 10px 54px;
+	list-style: none;
+	background-image: url("/icons/send-mark-removebg-preview.png");
+	background-repeat: no-repeat;
+	background-position: left center;
+	background-size: 40px;
+    letter-spacing: 1px;
+    line-height: 27px;
+
+}
+.imgs-book-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+.imgs-book-container .img{
+    margin: 10px;
+    box-shadow: 0px 0px 10px rgb(13, 92, 132);
+    width: 330px;
+    height: 180px;
+    border-radius: 5px;
+}
+.imgs-book-container .img1{
+    background: url('/images/lasha2.jpg');
+    background-repeat: no-repeat;
+    background-position: -300px -300px;
+}
+.imgs-book-container .img2{
+    background: url('/images/irakli.webp');
+    background-repeat: no-repeat;
+    background-position: -150px -300px;
+    /* background-position: -300px -300px; */
+}
+.book-now{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.book-now button{
+    margin: 20px;
+    padding: 15px 30px;
+    border: none;
+    font-size: 1.4rem;
+    letter-spacing: 1px;
+    background-color: rgb(14, 45, 72);
+    color: #fff;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 0.5s;
+    font-family: "Jersey 25", sans-serif;
+}
+.book-now button:hover{
+    background-color: rgba(14, 45, 72, 0.799);
+}
+
+
+
+
+
+
+/* -------------------------------- */
+/*             pilots            */
+/* -------------------------------- */
+
+
+/* pilots */
+
+.pilots{
+    position: relative;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    /* background-color: aliceblue; */
+    padding: 30px 10px;
+    margin: 30px 0;
+    margin-bottom: 100px;
+    
+}
+
+.img{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    padding: 10px;
+}
+.img h1{
+    margin: 0px 10px;
+    padding: 5px 10px;
+    font-size: 3rem;
+    letter-spacing: 4px;
+    font-family: "Jersey 25", sans-serif;
+}
+.pilot1 .img .Img{
+    margin: 10px;
+    border-radius: 20px;
+    width: 270px;
+    height: 300px;
+    background: url('/images/irakli.webp');
+    background-position: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.pilot2 .img .Img{
+    margin: 10px;
+    border-radius: 20px;
+    width: 270px;
+    height: 300px;
+    background: url('/images/lasha.jpg');
+    /* background-position: center; */
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.img a{
+    position: relative;
+    margin: 5px;
+    padding: 5px;
+    text-decoration: none;
+    font-size: 1.2rem;
+    margin-top: 0;
+    left: 50%;
+    transform: translateX(-20%);
+    
+    
+}
+.img a:hover{
+    text-decoration: underline;
+}
+.pilot{
+    display: flex;
+    justify-content: center;
+    /* align-items: flex-end; */
+    
+}
+.experiance{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: flex-start;
+    margin-top: 65px;
+}
+
+.experiance p{
+    font-size: 2.2rem;
+    /* letter-spacing: 2px; */
+    margin: 10px 0px;
+    padding: 10px 0px;
+    font-family: "Jersey 25", sans-serif;
+}
+.experiance ul{
+    margin: 5px 20px;
+    /* padding: 10px; */
+}
+.experiance ul li{
+    margin: 5px;
+    padding: 5px;
+    font-size: 1.1rem;
+    letter-spacing: 1px;
+    opacity: 80%;
+    list-style-position: outside;
+}
+
+
+@keyframes fly-safety-main-intro{
+    from{
+        transform: translateY(-500px);
+    }
+    to{
+        transform: translateX(0);
+    }
+}
+@keyframes why-with-us-move{
+    from{
+        transform: translateX(-1500px);
+    }
+    to{
+        transform: translateX(0);
+    }
+}
+@keyframes why-with-us-video-move{
+    from{
+        transform: translateX(1000px);
+    }
+    to{
+        transform: translateX(0);
+    }
+}

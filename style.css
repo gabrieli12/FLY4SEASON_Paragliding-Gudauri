@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    
+    font-family: Poppins;
+    width: 100%;
+    min-height: 100vh;
+    /* background-color: #010101;
+    color: #eee; */
+    overflow-x: hidden;
+}
+
+/* #cursor{
+    width: 50px;
+    height: 50px;
+    background-color: rgba(31, 145, 165, 0.335);
+    border-radius: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    z-index: 9999;
+    pointer-events: none
+  } */
+
+  .main-background-video {
+    position: relative;
+    width: 100%;
+    height: 50vh;
+    overflow: hidden;  /*Ensure the video does not overflow its container */
+    background-color: rgba(7, 22, 30, 0.465);
+}
+
+.main-background-video video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: auto;
+    min-height: 100%; /* Ensure the video covers the entire container width */
+    z-index: -1; /* Ensure the video is behind other content */
+    
+}
+
+.contuct{
+    position: fixed;
+    bottom: 50px;
+    right: 50px;
+    background-color: #dd7878;
+    padding: 20px;
+    z-index: 99999999999;
+    border: none;
+    border-radius: 20px;
+    font-size: 1.3rem;
+    color: #fff;
+    transition: 1s;
+    animation-name: light;
+    animation-duration: 1.5s;
+    animation-iteration-count: infinite;
+    /* box-shadow: 0px 0px 10px black; */
+    box-shadow: 0px 0px  10px #dd7878;
+    cursor: pointer;
+    /* right: -500px;
+    animation: contact-open 0.8s ease forwards;
+    animation-delay: 0.3s; */
+
+}
+.contuct:hover{
+    box-shadow: 0px 0px  100px #dd7878;
+
+}
+
+@keyframes light{
+    0%{
+
+    }
+    50%{
+        box-shadow: 0px 0px  70px #dd7878;
+    }
+    100%{
+    } 
+}
+
+
+
+
+
+
+
+
+
+
+@keyframes arrow-open{
+    from{
+        transform: translateX(1500px);
+    }
+    to{
+        transform: translateX(0);
+    }
+}
+@keyframes thumbnail-open{
+    from{
+        transform: translateY(500px);
+    }
+    to{
+        transform: translateY(0);
+    } 
+}
+/* @keyframes contact-open{
+    from{
+        right: -500px;
+    }
+    to{
+        right: 50px;
+    }
+} */
+
+
+.main-logo{
+    position: absolute;
+    /* top: 30%; */
+    /* top: 0; */
+    left: 0;
+    transform: rotate(-30deg);
+    width: 150px;
+    z-index: 999;
+    margin: 10px;
+    padding: 10px;
+    margin-top: 50px;
+
+
+}

@@ -1,0 +1,88 @@
+
+.fly-types{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px;
+    margin-bottom: 200px;
+    padding: 50px 20px;
+    
+}
+.fly-container{
+    display: flex;
+    font-family: sans-serif;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    /* position: relative; */
+}
+.fly-card{
+    position: relative;
+    height: 500px;
+    margin: 50px;
+    box-shadow: 5px 5px 20px rgb(2, 10, 63);
+    overflow: hidden;
+    border-radius: 10px;
+}
+.fly-card:nth-of-type(1){
+    animation-name: textMoveBack;
+    animation-duration: 25s;
+    animation-iteration-count: infinite;
+
+}
+.fly-card:nth-of-type(3){
+    animation-name: textMoveFront;
+    animation-duration: 25s;
+    animation-iteration-count: infinite;
+
+}
+.fly-card img{
+    height: 500px;
+    width: 350px;
+    border-radius: 10px;
+    transition: .5s;
+}
+.fly-intro{
+    height: 70px;
+    width: 350px;
+    padding: 6px 10px;
+    box-sizing: border-box;
+    position: absolute;
+    /* bottom: 228px; */
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.571);
+    color: #fff;
+    transition: .2s;
+}
+
+.fly-intro h2{
+    margin: 10px;
+    font-size: 2rem;
+    /* letter-spacing: 1px; */
+    font-family: "Roboto", sans-serif;
+}
+.fly-p{
+    font-size: 20px;
+    margin: 20px;
+    visibility: hidden;
+    opacity: 0;
+}
+
+ .fly-card:hover{
+    cursor: pointer;
+}
+
+.fly-card:hover .fly-intro{
+    height: 250px;
+    /* bottom: 228px; */
+    /* bottom: 0; */
+    background: rgba(0, 0, 0, 0.715);
+}
+.fly-card:hover .fly-p{
+    opacity: 1;
+    visibility: visible;
+}
+
+.fly-card:hover .fly-img{
+    transform: scale(1.1) rotate(-3deg);
+} 

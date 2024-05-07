@@ -1,0 +1,43 @@
+
+header - 700
+
+
+
+main page
+---------
+900 - მოძრავ ტექსტებს
+900 - who are we
+480 - phone
+
+
+--------
+contact us
+--------
+700 - form
+
+
+--------
+about us
+--------
+900
+
+
+--------
+fly and safety us
+--------
+
+1400
+
+
+
+
+
+
+
+
+
+width
+1300
+900 - moving text, about us, about-we, 
+700
+480

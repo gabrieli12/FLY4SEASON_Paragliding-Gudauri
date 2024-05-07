@@ -1,0 +1,476 @@
+@media screen and (max-width: 1400px) {
+    /* why with us */
+    .why-with-us iframe{
+        height: 250px;
+    }
+    .why-with-us-texts ul li{
+        font-size: 1rem;
+        width: 100%;
+        padding: 5px 0 15px 44px;
+
+    }
+    .imgs-book-container .img{
+        width: 280px;
+        height: 180px;
+    
+    }
+
+    /* pilots */
+    .pilots{
+        flex-direction: column;
+    }
+    .main-logo{
+      width: 100px;
+    }
+   
+}
+
+
+@media screen and (max-width: 900px){
+    /* why with us */
+    .why-with-us{
+        flex-direction: column;
+    }
+    .why-with-us-intro-texts-container{
+        max-width: 90%;
+    }
+    .why-with-us iframe{
+        max-width: 90%;
+        height: 240px;
+    }
+
+
+    /* about us members */
+    .member1{
+        flex-direction: column;
+    }
+    .member1-titles{
+        justify-content: start;
+        align-items: start;
+    }
+    .member1-titles p{
+      margin: 10px 10px;
+    }
+    .member1-titles div{
+      margin: 0 10px;
+    }
+
+
+
+    /* moving texts */
+    .animation-texts{
+      grid-template-columns: 1fr 1fr;
+    }
+    .item{
+      grid-column: auto;
+    }
+    .item6{
+      margin: 0;
+      left: 0;
+      justify-self: center;
+      animation-name: textMoveBack;
+    }
+    .item2{
+      animation-name: textMoveFront;
+      grid-row: 3 / 4;
+      justify-self: center;
+    }
+    .item3{
+      grid-column: 1/ 3;
+      align-self: flex-end;
+      justify-self: start;
+      left: 5%;
+      animation-name: textMoveFront;
+    }
+    .item4{
+      animation-name: textMoveBack;
+      
+    }
+    .item5{
+      grid-column:  1 / 3;
+      justify-self: end;
+      align-self: flex-end;
+      right: 5%;
+      animation-name: textMoveBack;
+    }
+    .item7{
+      justify-self: start;
+      grid-column: 2 / 3;
+      /* left: 50%;
+      transform: translateX(-50%); */
+      text-align: center;
+      left: -20%;
+    }
+    .item8{
+      grid-column: 1 / 2;
+      justify-self: end;
+      animation-name: textMoveFront;
+    }
+
+
+
+
+    /* background video */
+    .main-background-video {
+      width: 100%;
+      height: 27vh;
+  }
+  
+  .background-video video {
+      width: 100%;
+      height: auto;
+      min-height: 100%; /* Ensure the video covers the entire container width */
+      
+  }
+  
+}
+
+
+@media screen and (max-width: 700px){
+
+    /* header */
+    header .menu{
+        display: none;
+    }
+    .fa-bars{
+        grid-column: 3 / 4;
+    }
+
+
+
+
+    /* main why with us */
+    .main-why-with-us{
+        /* background-color: red; */
+        flex-direction: column;
+    }
+    .with-us-images-div{
+        width: 90%;
+    }
+
+
+    /* contuct us */
+    .container .text{
+        font-size: 30px;
+      }
+      .container form{
+        padding: 10px 0 0 0;
+      }
+      .container form .form-row{
+        display: block;
+      }
+      form .form-row .input-data{
+        margin: 35px 0!important;
+      }
+      .submit-btn .input-data{
+        width: 40%!important;
+      }
+
+
+      /* why with us */
+      /* comfort and quality */
+      .comfort-and-quality{
+        flex-direction: column;
+        
+      }
+      .imgs-book-container{
+        width: 100%;
+        flex-wrap: nowrap;
+      }
+      .book-now{
+        width: 50%;
+      }
+      .imgs-book-container .book-now .img{
+        width: 100%;
+      }
+      .imgs-book-container .img{
+        width: 50%;
+      } 
+
+
+      /* pilots */
+      .pilot{
+        flex-direction: column;
+        margin-bottom: 100px;
+      }
+      .experiance{
+        margin: 0 15px;
+      }
+      .pilots .pilot .img{
+        margin: 0;
+        padding: 0;
+      }
+      .pilots .pilot .img .Img{
+        border-radius: 10px;
+      }
+      .img a{
+        left: 0;
+        transform: translateX(0);
+        margin: 0 15px;
+      }
+
+
+
+      /* moving texts */
+      .about-paragliding .container1-title{
+        font-size: 2.3rem;
+        width: 100%;
+      }
+      .about-paragliding .container1-title2{
+        font-size: 1.3rem;
+        width: 100%;
+      }    
+      .animation-texts{
+        grid-template-columns: 1fr;
+        justify-items: center;
+        align-items: center;
+      }
+      .items{
+        grid-column: auto;
+        grid-row: auto;
+        font-size: 1rem;
+        align-self: center;
+        justify-self: center;
+        text-align: center;
+        left: 0;
+        right: 0;
+      }
+      
+      .item2{
+        animation-name: textMoveBack;
+      }
+    
+      
+      .item5{
+        animation-name: textMoveFront;
+      }
+    
+      .item7{
+        animation-name: textMoveFront;
+      }
+      .item8{
+        animation-name: textMoveBack;
+      }
+
+      @keyframes textMoveFront {
+        0%{
+            transform: translateX(0);
+        }
+        25%{
+            transform: translateX(15px)
+        }
+        50%{
+            transform: translateX(0);
+        }
+        75%{
+            transform: translateX(-15px);
+        }
+        100%{
+            transform: translateX(0);
+        }
+    }
+    @keyframes textMoveBack {
+      
+        0%{
+            transform: translateX(0);
+        }
+        25%{
+            transform: translateX(-15px)
+        }
+        50%{
+            transform: translateX(0);
+        }
+        75%{
+            transform: translateX(15px);
+        }
+        100%{
+            transform: translateX(0);
+        }
+    }
+    
+    /* about background video */
+    .about-background-video{
+      max-width: 700px;
+      /* height: 27vh; */
+  
+    }
+    .about-we{
+      margin-top: 50px;
+      font-size: 1rem;
+    }
+
+    /* fly and safety */
+    .fly-safety-background-video {
+  }
+  
+  .fly-safety-background-video video {
+      width: 700px;
+  }
+  
+
+      /* .pilots .pilot .img{
+        margin: 0;
+      }
+      .pilots .pilot .img h1{
+        font-size: 2.5rem;
+      }
+      .pilot .img .Img{
+        max-width: 180px;
+        height: 250px;
+      }
+      .experiance p{
+        font-size: 2rem;
+      }
+      .experiance ul{
+        margin: 5px 15px;
+      }
+      .experiance ul li{
+        font-size: 1rem;
+        margin: 0;
+
+      } */
+}
+
+
+
+@media screen and (max-width: 480px){
+  /* moving texts */
+  .items{
+    font-size: 0.9rem;
+  }
+
+  /* background video */
+  .main-background-video {
+      height: 21vh;
+  }
+
+  /* with us in main page */
+  .width-us-intro-div .why-with-us-title{
+    font-size: 3.1rem;
+    width: 90%;
+  }
+
+  /* yt videos */
+  .yt-videos div{
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+  }
+  .yt-videos div p{
+    font-size: 0.9rem;
+  }
+  .yt-videos div iframe{
+    width: 100%;
+  }
+
+  /* fly types */
+
+  .fly-types{
+    margin: 0;
+    padding: 0;
+    max-width: 100%;
+    margin-top: 200px;
+    margin-bottom: 100px;
+  }
+  .fly-card{
+    margin: 50px 20px;
+    max-width: 100%;
+  }
+  .fly-img{
+    max-width: 100%;
+  }
+
+  /* about */
+  /* about background video */
+  .about-background-video{
+    max-width: 480px;
+    /* height: 28vh; */
+
+  }
+  .about-background-video video{
+    width: 480px;
+  }
+  .about-we{
+    margin-top: 30px;
+    font-size: 1rem;
+  }
+
+  .our-team{
+    margin-left: 5px;
+  }
+  .member1{
+    margin: 10px 0;
+    padding: 10px 0;
+  }
+
+  /* contact */
+  .container{
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+  .input-data .inner{
+    max-width: 700px;
+  }
+  
+
+  /* fly and safety */
+
+  /* why with us */
+  .why-with-us{
+    justify-content: start;
+    align-items: start;
+  }
+  .intro{
+    padding: 0;
+  }
+  .intro p{
+    font-size: 1.1rem;
+  }
+
+  .why-with-us-texts p{
+    font-size: 1.9rem;
+  }
+  .why-with-us-texts ul{
+    width: 100%;
+    margin-left: 0;
+    padding-left: 0;
+  }
+  .why-with-us-texts ul li{
+    width: 100%;
+  }
+  .why-with-us iframe{
+    height: 180px;
+  }
+
+  /* COMFORT AND QUALITY! */
+  .comfort-and-quality{
+    justify-content: start;
+    align-items: flex-start;
+  }
+  .comfort-intro{
+    margin: 5px;
+    padding: 5px;
+  }
+  .comfort-intro p{
+    margin-left: 0;
+    font-size: 1.8rem;
+  }
+  .comfort-intro ul li{
+    padding-left: 44px;
+    font-size: 1rem;
+  }
+
+  .imgs-book-container{
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+  }
+  .book-now{
+    width: 90%;
+  }
+  .imgs-book-container .img{
+    width: 90%;
+  }
+}

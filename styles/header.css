@@ -1,0 +1,49 @@
+header{
+    width: 1200px;
+    max-width: 90%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: 50px 1fr 50px;
+    grid-template-rows: 50px;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    z-index: 100;
+    color: #fff;
+    animation: header-open 1s ease forwards;
+}
+header .logo{
+    font-weight: bold;
+    font-size: 1.3rem;
+    letter-spacing: 2px;
+}
+header .menu{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    font-weight: 500;
+}
+header .menu a{
+    color: #fff;
+    text-decoration: none;
+    opacity: 0.7;
+}
+header .menu a:hover{
+    opacity: 1;
+}
+.fa-bars{
+    font-size: 1.7rem;
+    cursor: pointer;
+}
+
+@keyframes header-open {
+    from{
+        transform: translateY(-500px);
+    }
+    to{
+        transform: translateY(0);
+    }
+}

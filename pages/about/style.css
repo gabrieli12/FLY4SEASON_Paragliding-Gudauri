@@ -1,0 +1,180 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    min-height: 100vh;
+    font-family: "Roboto", sans-serif;
+}
+header{
+    transform: translateY(-500px);
+    animation-delay: 0.5s;
+    z-index: 999999;
+}
+.about-background-video {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    /* height: 30vh; */
+    height: 280px;
+    overflow: hidden;  /*Ensure the video does not overflow its container */
+    background-color: rgba(7, 22, 30, 0.465);
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.825), transparent);
+    animation: bgvideo-move 0.7s ease forwards;
+}
+
+.about-background-video video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: auto;
+    min-height: 100%; /* Ensure the video covers the entire container width */
+    z-index: -1; /* Ensure the video is behind other content */
+    filter: brightness(0.8);
+    /* animation: bgvideo-move 1s ease forwards; */
+
+}
+
+
+
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.about-we{
+    position: relative;
+    text-align: center;
+    font-size: 1.1rem;
+    max-width: 50rem;
+    margin-top: 70px;
+    letter-spacing: 1px;
+    color: #fff;
+    z-index: 999;
+    padding: 20px;
+    transform: translateY(-500px);
+    animation: about-text-move 1s ease forwards;
+    animation-delay: 0.3s;
+
+    
+}
+
+
+
+
+
+/* our team */
+
+
+.our-team{
+    margin: 10px;
+    padding: 10px;
+    position: relative;
+    margin-top: 100px;
+}
+
+.member1{
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    
+}
+
+.member1-titles{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.member1-titles p{
+    text-align: center;
+    font-size: 1.8rem;
+}
+.member1-titles div:nth-of-type(1){
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    
+}
+.member1-titles div:nth-of-type(1) img:hover{
+    animation-name: logo-size;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+
+
+
+.member1-img{
+    margin: 10px;
+    background: url('/images/irakli.webp');
+    background-repeat: no-repeat;
+    background-position: -200px;
+    max-width: 16rem;
+    width: 50rem;
+    height: 350px;
+    border-radius: 10px;
+    object-fit: cover;
+}
+
+
+.member1 ul{
+    margin: 5px;
+    padding: 5px;
+}
+.member1 ul p{
+    margin: 5px;
+}
+.member1 ul li{
+    max-width: 55rem;
+    margin: 5px;
+    opacity: 0.8;
+    margin-left: 20px;
+}
+
+
+@keyframes logo-size {
+    0%{
+        transform: scale(1);
+    }
+    50%{
+        transform: scale(1.1);
+    }
+    100%{
+        transform: scale(1);
+    }
+}
+
+
+
+
+@keyframes bgvideo-move{
+    from{
+        top: -500px;
+    }
+    to{
+        top: 0;
+    }
+    
+}
+@keyframes about-text-move{
+    from{
+        transform: translateY(-500px);
+    }
+    to{
+        transform: translateY(0);
+    }
+}
+
+@keyframes license-card-move{
+    from{
+        transform: translateX(-1000px);
+    }
+    to{
+        transform: translateX(0);
+    }
+}
