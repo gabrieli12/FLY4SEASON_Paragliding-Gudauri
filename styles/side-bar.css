@@ -120,7 +120,7 @@ body{
     margin: 7px 10px;
     padding: 10px;
     display: flex;
-    right: 30%;
+    right: 10%;
     font-weight: bold;
     letter-spacing: 2px;
     color: #fff;
@@ -157,11 +157,12 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    gap: 10px;
+    margin-top: 10px;
 }
 .social-div img{
-    margin: 10px;
+    margin: 5px;
     width: 30px;
-    
 }
 
 .developer{

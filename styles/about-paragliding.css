@@ -1,37 +1,38 @@
 .about-paragliding{
-    /* overflow-x: hidden; */
+    overflow: hidden;
     position: relative;
     
     /* width: 100%; */
     padding: 80px 20px;
+    /* padding-bottom: 100px; */
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     /* color: #fff; */
     /* background-color: rgb(173, 221, 221); */
-    background: url('/giphy.gif');
-    background-repeat: no-repeat;
+    /* background: url('/giphy.gif');
+    background-repeat: no-repeat; */
     /* background-color: rgb(156, 219, 221); */
     background-color: rgba(128, 161, 233, 0.354);
     /* background-size: cover; */
-    background-position: center;
-    padding-bottom: 140px;  
+    /* background-position: center; */
+    /* padding-bottom: 140px;   */
     /* height: 80vh; */
     /* background-color: #00000011; */
 
 }
 .about-paragliding .container1-title{
     font-size: 2.7rem;
-    margin: 10px;
-    padding: 10px;
+    /* margin: 10px; */
+    /* padding: 10px; */
     text-align: center;
     margin-top: 50px;
 }
 .about-paragliding .container1-title2{
     font-size: 1.5rem;
-    margin: 10px;
-    padding: 10px;
+    /* margin: 10px; */
+    /* padding: 10px; */
     margin-top: 40px;
     text-align: center;
 }
@@ -52,6 +53,7 @@
 
 .animation-texts{
     position: relative;
+    overflow-x: hidden;
     /* max-width: 100%; */
     width: 100%;
     display: grid;
@@ -59,7 +61,7 @@
     grid-template-rows: repeat(6, 90px);
     justify-items: center;
     align-items: center;
-    padding: 20px;
+    padding: 10px;
     
 }
 #movingText{

@@ -43,6 +43,8 @@ body{
     font-family: "Jersey 25", sans-serif;
     letter-spacing: 1px;
     animation: fly-safety-main-intro 1s ease forwards;
-
     
+}
+.gallery-images{
+    backdrop-filter: blur(100px);
 }

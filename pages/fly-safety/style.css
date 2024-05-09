@@ -9,8 +9,8 @@
 body{
     min-height: 100vh;
     font-family: "Roboto", sans-serif;
+    background: linear-gradient(to bottom, rgba(217, 221, 102, 0.434) , #fff, rgba(209, 221, 102, 0.125), #fff);
     overflow-x: hidden;
-    /* background: linear-gradient(to bottom, rgba(217, 221, 102, 0.434) , #fff, rgba(209, 221, 102, 0.125), #fff); */
 }
 header{
     /* color: #06032a; */
@@ -54,6 +54,7 @@ header{
     margin-top: 80px;
 }
 .intro-title{
+    position: relative;
     text-align: center;
     font-size: 3rem;
     /* color: #06032a; */
@@ -79,10 +80,12 @@ header{
     margin-top: 100px;
     padding: 40px 10px;
     background: linear-gradient(to bottom, #fff, rgba(102, 166, 221, 0.434));
+    overflow: hidden;
     /* background: linear-gradient(to bottom, #fff, rgba(117, 169, 13, 0.382)); */
     /* box-shadow: 0px -20px 200px black; */
 }
 .why-with-us-intro-texts-container{
+    position: relative;
     max-width: 50%;
     margin: 5px;
     padding: 5px;
@@ -151,12 +154,11 @@ header{
     
 }
 .why-with-us iframe{
+    position: relative;
     margin: 10px;
     border-radius: 10px;
     margin-top: 40px;
     animation: why-with-us-video-move 1s ease forwards;
-
-    
 }
 
 

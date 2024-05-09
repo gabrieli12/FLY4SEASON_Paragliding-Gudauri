@@ -40,12 +40,20 @@ body{
 
 /* contuct us container */
 main{
-    display: flex;
+    /* display: flex; */
+    /* flex-direction: column;
     align-items: center;
-    justify-content: center;
+    justify-content: center; */
+    /* padding: 20px; */
+    /* height: 94.8vh; */
+    /* background: linear-gradient(115deg, #56d8e4 10%, #9f01ea 90%); */
+}
+.contact-container{
+    display: flex; 
+    align-items: center;
+    justify-content: center; 
     padding: 20px;
     height: 94.8vh;
-    /* background: linear-gradient(115deg, #56d8e4 10%, #9f01ea 90%); */
 }
 
 .container{
@@ -186,11 +194,15 @@ form .form-row .textarea{
 
 .contuct-us-social{
     display: flex;
-    justify-content: center;
+    justify-content: start;
     align-items: center;
+    flex-wrap: wrap;
     gap: 10px;
 }
 
+.contuct-us-social a img{
+  width: 30px;
+}
 
 
 @keyframes contact-move{

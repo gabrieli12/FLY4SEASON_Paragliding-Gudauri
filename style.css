@@ -3,6 +3,7 @@
 *{
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 body{
     
@@ -29,7 +30,9 @@ body{
     position: relative;
     width: 100%;
     height: 50vh;
-    overflow: hidden;  /*Ensure the video does not overflow its container */
+    
+    
+    overflow: hidden;  /* Ensure the video does not overflow its container */
     background-color: rgba(7, 22, 30, 0.465);
 }
 
