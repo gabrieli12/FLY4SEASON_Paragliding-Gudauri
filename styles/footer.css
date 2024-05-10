@@ -150,7 +150,7 @@ footer ul:nth-of-type(4) li:nth-of-type(2){
     letter-spacing: 2px;
     font-size: 0.8rem;
 }
-footer ul:nth-of-type(4) div{
+footer ul:nth-of-type(4) .footer-social-logo{
     margin: 10px;
     display: flex;
     justify-content: start;
@@ -187,6 +187,6 @@ footer a{
 
 
 
-.footer-social div a img{
+.footer-social a img{
     width: 30px;
 }

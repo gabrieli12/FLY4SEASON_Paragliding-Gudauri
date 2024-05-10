@@ -130,8 +130,12 @@ main{
     margin: 5px;
     padding: 5px;
 }
-.member1 ul p{
+.member1 ul .team-member-main-intro{
+    list-style-type: none;
+    max-width: auto;
     margin: 5px;
+    opacity: 1;
+    margin-left: 0;
 }
 .member1 ul li{
     max-width: 55rem;
