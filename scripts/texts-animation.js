@@ -67,9 +67,9 @@
 // })
 
 
-const btn = document.getElementById('btn')
-const div = document.getElementById('pilots')
+// const btn = document.getElementById('btn')
+// const div = document.getElementById('pilots')
 
-btn.addEventListener('click', function(){
-    div.style.display = 'flex'
-})
+// btn.addEventListener('click', function(){
+//     div.style.display = 'flex'
+// })

@@ -39,6 +39,7 @@
 .fly-card img{
     height: 500px;
     width: 350px;
+    object-fit: cover;
     border-radius: 10px;
     transition: .5s;
 }
