@@ -4,6 +4,7 @@
 body{
     position: relative;
 }
+
 .side-menu{
     position: fixed;
     top: 0;
@@ -19,6 +20,9 @@ body{
     transform: translateX(-120%);
     overflow-y: auto;
     z-index: 999999999999999999;
+}
+#side-menu {
+    transition: transform 0.3s ease-in-out;
 }
 .side-menu ul{
     padding-top: 50px;
