@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  },
+  "name": "slider-main",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/gabrieli12/fly2.git",
+  "author": "gabrieli <gabrielmolodini2@gmail.com>",
+  "license": "MIT"
+}

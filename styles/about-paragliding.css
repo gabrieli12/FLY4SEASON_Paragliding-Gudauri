@@ -14,14 +14,20 @@
     background: url('/giphy.gif');
     background-repeat: no-repeat;
     /* background-color: rgb(156, 219, 221); */
-    background-color: rgba(128, 161, 233, 0.354);
+    /* background-color: rgba(128, 161, 233, 0.354); */
+    background-color: rgba(12, 83, 236, 0.902);
+    border-top: 5px solid black;
+    
+
     /* background-size: cover;  */
      background-position: center;
     /* padding-bottom: 140px;   */
     /* height: 80vh; */
     /* background-color: #00000011; */
+    color: #fff;
 
 }
+
 .about-paragliding .container1-title{
     font-size: 2.7rem;
     /* margin: 10px; */
@@ -64,6 +70,17 @@
     padding: 10px;
     
 }
+.animation-texts2{
+    margin: 20px 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 10px;
+    margin-top: 50px;
+    display: none;
+}
+
 #movingText{
     /* transform: translate(-50%, -50%); */
     /* position: absolute; */
@@ -72,7 +89,7 @@
 
 
 }
-.items{
+.animation-texts .items{
     position: relative;
     font-size: 1.1rem;
     letter-spacing: 1px;

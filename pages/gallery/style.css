@@ -8,8 +8,9 @@
 body{
     min-height: 100vh;
     font-family: 'Roboto', sans-serif;
+    overflow-x: hidden;
 }
-.fly-safety-background-video {
+.gallery-background-video {
     position: absolute;
     top: 0;
     width: 100%;
@@ -20,7 +21,7 @@ body{
     background: linear-gradient(to bottom, rgba(0, 0, 0, 0.825), transparent);
 }
 
-.fly-safety-background-video video {
+.gallery-background-video video {
     position: absolute;
     top: 0;
     left: 0;
@@ -28,6 +29,7 @@ body{
     height: auto;
     min-height: 100%; /* Ensure the video covers the entire container width */
     z-index: -1; /* Ensure the video is behind other content */
+    overflow: hidden;
 }
 .section1{
     position: relative;
@@ -58,7 +60,10 @@ body{
 
 }
 .gallery-images img{
-    max-width: 90%;
+    /* max-width: 90%; */
+    /* min-width: 300px; */
+    width: 95%;
+    height: 300px;
     object-fit: cover;
     transition: 0.5s;
     cursor: pointer;
@@ -67,3 +72,5 @@ body{
 .gallery-images img:hover{
     transform: scale(1.05);
 }
+
+

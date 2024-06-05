@@ -3,9 +3,10 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 200px;
-    margin-bottom: 200px;
+    margin-top: 20px;
+    margin-bottom: 50px;
     padding: 50px 20px;
+    background: url('/snow.gif');
     
 }
 .fly-container{
@@ -16,26 +17,39 @@
     flex-wrap: wrap;
     /* position: relative; */
 }
+.fly-container a{
+    margin: 50px;
+}
 .fly-card{
     position: relative;
     height: 500px;
-    margin: 50px;
+    /* margin: 50px; */
     box-shadow: 5px 5px 20px rgb(2, 10, 63);
     overflow: hidden;
     border-radius: 10px;
 }
-.fly-card:nth-of-type(1){
+/* .fly-card:nth-of-type(1){
     animation-name: textMoveBack;
     animation-duration: 25s;
     animation-iteration-count: infinite;
 
+} */
+/* .fly-container a:nth-of-type(1){
+    animation-name: textMoveBack;
+    animation-duration: 25s;
+    animation-iteration-count: infinite;
 }
-.fly-card:nth-of-type(3){
+.fly-container a:nth-of-type(3){
+    animation-name: textMoveFront;
+    animation-duration: 25s;
+    animation-iteration-count: infinite;
+} */
+/* .fly-card:nth-of-type(3){
     animation-name: textMoveFront;
     animation-duration: 25s;
     animation-iteration-count: infinite;
 
-}
+} */
 .fly-card img{
     height: 500px;
     width: 350px;
