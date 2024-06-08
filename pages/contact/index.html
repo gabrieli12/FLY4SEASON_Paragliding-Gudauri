@@ -3,7 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contact Us - fly4season</title>
+    <title>Contact Us - FLY4SEASON - Paragliding in Georgia</title>
+    <meta name="description" content="Get in touch with FLY4SEASON - Paragliding in Georgia. Find our phone number, email address, and contact form here." />
+    <meta name="robots" content="index, follow">
+
+
+
     <link rel="icon" href="/site-main-logo.png" type="image/icon type">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
     <link rel="stylesheet" href="/pages/contact/style.css">
@@ -90,59 +95,59 @@
             <div class="container">
                 <div class="text">Contact Us</div>
                 <form action="#">
-                <div class="form-row">
-                    <div class="input-data">
-                        <input type="text" required>
-                        <div class="underline"></div>
-                        <label for="">First Name</label>
+                    <div class="form-row">
+                        <div class="input-data">
+                            <input id="first-name" type="text" required>
+                            <div class="underline"></div>
+                            <label for="first-name">First Name</label>
+                        </div>
+                        <div class="input-data">
+                            <input id="last-name" type="text" required>
+                            <div class="underline"></div>
+                            <label for="last-name">Last Name</label>
+                        </div>
                     </div>
-                    <div class="input-data">
-                        <input type="text" required>
-                        <div class="underline"></div>
-                        <label for="">Last Name</label>
+                    <div class="form-row">
+                        <div class="input-data">
+                            <input id="email" type="email" required>
+                            <div class="underline"></div>
+                            <label for="email">Email Address</label>
+                        </div>
+                        <div class="input-data">
+                            <input id="phone-number" type="number" required>
+                            <div class="underline"></div>
+                            <label for="phone-number">Phone Number</label>
+                        </div>
                     </div>
-                </div>
-                <div class="form-row">
-                    <div class="input-data">
-                        <input type="text" required>
-                        <div class="underline"></div>
-                        <label for="">Email Address</label>
+                    <div class="form-row">
+                        <div class="input-data textarea">
+                            <textarea id="message" rows="8" cols="80" required></textarea>
+                            <br />
+                            <div class="underline"></div>
+                            <label for="message">Write your message</label>
+                            <br />
+                        </div>
                     </div>
-                    <div class="input-data">
-                        <input type="text" required>
-                        <div class="underline"></div>
-                        <label for="">Phone Number</label>
-                    </div>
-                </div>
-                <div class="form-row">
-                    <div class="input-data textarea">
-                        <textarea rows="8" cols="80" required></textarea>
-                        <br />
-                        <div class="underline"></div>
-                        <label for="">Write your message</label>
-                        <br />
-                    </div>
-                </div>
 
-                <div class="form-row submit-btn">
-                    <div class="input-data">
-                    <div class="inner"></div>
-                    <input type="submit" value="submit">
+                    <div class="form-row submit-btn">
+                        <div class="input-data">
+                        <div class="inner"></div>
+                        <input type="submit" value="submit">
+                        </div>
+                        <div class="contuct-us-social">
+                            <a style="text-decoration: none;" href="https://api.whatsapp.com/send/?phone=%2B995598555791&text&type=phone_number&app_absent=0"><p>+995 598 555 791</p></a>
+                            <a href='https://api.whatsapp.com/send/?phone=%2B995598555791&text&type=phone_number&app_absent=0' target="_blank">
+                                <img style="width: 40px;" src="/social-icons/WhatsApp-logo.png" alt="fly4season paragliding WhatsApp" >
+                            </a>
+                            <a href="https://t.me/Ika598555791" target="_blank">
+                                <img src="/social-icons/telegram.png" alt="fly4season paragliding telegram">
+                            </a>
+                            <a style="margin-left: 5px;" href='https://www.instagram.com/fly4season_paragliding?igsh=MW9yaDhzcTV2cGo3aQ%3D%3D' target="_blank">
+                                <img src="/social-icons/Instagram_logo_2016.svg.webp" alt="fly4season paragliding Instagram">
+                            </a>
+                            
+                        </div>
                     </div>
-                    <div class="contuct-us-social">
-                        <a style="text-decoration: none;" href="https://api.whatsapp.com/send/?phone=%2B995598555791&text&type=phone_number&app_absent=0"><p>+995 598 555 791</p></a>
-                        <a href='https://api.whatsapp.com/send/?phone=%2B995598555791&text&type=phone_number&app_absent=0' target="_blank">
-                            <img style="width: 40px;" src="/social-icons/WhatsApp-logo.png" alt="fly4season paragliding WhatsApp" >
-                        </a>
-                        <a href="https://t.me/Ika598555791" target="_blank">
-                            <img src="/social-icons/telegram.png" alt="fly4season paragliding telegram">
-                        </a>
-                        <a style="margin-left: 5px;" href='https://www.instagram.com/fly4season_paragliding?igsh=MW9yaDhzcTV2cGo3aQ%3D%3D' target="_blank">
-                            <img src="/social-icons/Instagram_logo_2016.svg.webp" alt="fly4season paragliding Instagram">
-                        </a>
-                        
-                    </div>
-                </div>
 
                 </form>    
             </div>
@@ -227,7 +232,11 @@
 
     </footer>
 
+    
+    <script src="/pages/contact/script.js"></script>  
     <script src="/scripts/side-bar.js"></script>
+    <script src="https://smtpjs.com/v3/smtp.js"></script>  
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
 
     <script>

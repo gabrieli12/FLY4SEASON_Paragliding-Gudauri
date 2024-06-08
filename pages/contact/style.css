@@ -20,7 +20,7 @@ body{
     position: absolute;
     top: 0;
     width: 100%;
-    height: 100vh;
+    min-height: 133vh;
     overflow: hidden;  /*Ensure the video does not overflow its container */
     background-color: rgba(7, 22, 30, 0.465);
     background: linear-gradient(to bottom, rgba(0, 0, 0, 0.825), transparent);
@@ -63,7 +63,7 @@ main{
   width: 800px;
   padding: 45px 60px 30px 60px;
   box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
-  z-index: 999999;
+  /* z-index: 999999; */
   border-radius: 5px;
   transform: translateX(-1500px);
   animation: contact-move 0.8s ease forwards;
@@ -212,4 +212,19 @@ form .form-row .textarea{
     to{
       transform: translateX(0);
     }
+}
+
+.mapouter{
+  margin-top: 50px;
+}
+
+
+@media screen and (max-height: 770px){
+  .mapouter{
+    margin-top: 200px;
+  }
+  .container{
+    margin-top: 150px;
+  }
+
 }
