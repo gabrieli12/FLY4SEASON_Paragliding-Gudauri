@@ -11,9 +11,9 @@ function sendEmail(){
 
 
     Email.send({
-        SecureToken: "33dfeb71-7ea9-4e87-a174-b705be6dcbdc" ,
-        To : 'gabrielmolodini2@gmail.com',
-        From : "gabrielmolodini2@gmail.com",
+        SecureToken: "f6e63c7a-060e-4950-985d-4f12fd1e8b21",
+        To : 'gparagliding@gmail.com',
+        From : "gparagliding@gmail.com",
         Subject : "FLY4SEASON - Paragliding in Georgia",
         Body : bodyMessage
     }).then(
@@ -37,10 +37,9 @@ function sendEmail(){
     message.value = ''
 
 }
-
-
 form.addEventListener('submit', e => {
-    e.preventDefault()
+  e.preventDefault()
 
-    sendEmail()
+  sendEmail()
 })
+

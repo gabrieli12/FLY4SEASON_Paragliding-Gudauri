@@ -484,4 +484,21 @@
   .imgs-book-container .img{
     width: 90%;
   }
+
+
+  /* fly types */
+  .fly-card .fly-intro{
+    height: 250px;
+    /* bottom: 228px; */
+    /* bottom: 0; */
+    background: rgba(0, 0, 0, 0.715);
+  }
+  .fly-card .fly-p{
+      opacity: 1;
+      visibility: visible;
+  }
+
+  .fly-card:hover .fly-img{
+      transform: scale(1.1) rotate(-3deg);
+  } 
 }
