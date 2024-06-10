@@ -69,7 +69,7 @@ header{
 }
 
 .sticky{
-    padding: 20px 0;
+    padding: 10px 0;
     background-color: rgba(0, 0, 0, 0.539);
     /* backdrop-filter: blur(10px); */
     /* background-color: #052a3ce4; */
