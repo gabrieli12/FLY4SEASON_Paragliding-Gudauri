@@ -113,7 +113,7 @@ function showSlider() {
 }
 
 // Optional: Pre-calculate references to avoid repeated DOM lookups
-// let itemActiveEls = items; // Uncomment if performance is critical
+let itemActiveEls = items; // Uncomment if performance is critical
 
 // Autoplay initialization (optional)
-// autoplayInterval = setInterval(handleNextClick, 5000); // Use `setInterval` for continuous autoplay
+autoplayInterval = setInterval(handleNextClick, 5000); // Use `setInterval` for continuous autoplay

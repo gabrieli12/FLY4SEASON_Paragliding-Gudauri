@@ -25,15 +25,16 @@
 
 
     <header>
-        <div class="logo">FLY4SEASON</div>
-        <ul class="menu">
-            <li><a href="/index.html">Home</a></li>
-            <li><a href="/pages/about/index.html" style="opacity: 1;">About US</a></li>
-            <li><a href="/pages/contact/index.html">Contact Us</a></li>
-        </ul>
-        
-        <i id="burger-menu" class="fa-solid fa-bars"></i>
-        
+        <div class="header">
+            <div class="logo">FLY4SEASON</div>
+            <ul class="menu">
+                <li><a href="/index.html">Home</a></li>
+                <li><a href="/pages/about/index.html" style="opacity: 1;">About US</a></li>
+                <li><a href="/pages/contact/index.html">Contact Us</a></li>
+            </ul>
+            
+            <i id="burger-menu" class="fa-solid fa-bars"></i>
+        </div>
     </header>
 
     <aside id="side-menu" class="side-menu">
@@ -347,6 +348,14 @@
     <script src="/pages/about/slider.js"></script>
     <script src="/scripts/side-bar.js"></script>
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+
+    <script>
+        window.addEventListener('scroll', function(){
+            let header = document.querySelector('header')
+            header.classList.toggle('sticky', window.scrollY > 5)
+            header.classList.toggle('sticky2', window.scrollY > 250)
+        })
+    </script>
 
     <script>
         AOS.init();
