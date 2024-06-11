@@ -19,7 +19,7 @@ body{
     /* display: none; */
     transform: translateX(-120%);
     overflow-y: auto;
-    z-index: 999999999999999999;
+    z-index: 9999999999999;
 }
 #side-menu {
     transition: transform 0.3s ease-in-out;
