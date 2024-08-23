@@ -1,0 +1,172 @@
+@import "https://fonts.googleapis.com/css2?family=Jersey+25&display=swap";
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  min-height: 100vh;
+  font-family: Roboto, sans-serif;
+  overflow-x: hidden;
+}
+
+.header {
+  z-index: 999999;
+  animation-delay: .5s;
+  transform: translateY(-500px);
+}
+
+.about-background-video {
+  background: linear-gradient(#000000d2, #0000);
+  width: 100%;
+  height: 380px;
+  animation: .7s forwards bgvideo-move;
+  position: absolute;
+  top: 0;
+  overflow: hidden;
+}
+
+.about-background-video video {
+  z-index: -1;
+  filter: brightness(.8);
+  width: 100%;
+  height: auto;
+  min-height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+}
+
+main {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.about-we {
+  text-align: center;
+  letter-spacing: 1px;
+  color: #fff;
+  z-index: 999;
+  backdrop-filter: blur(3px);
+  max-width: 50rem;
+  margin-top: 70px;
+  padding: 30px;
+  font-size: 1.1rem;
+  animation: 1s .3s forwards about-text-move;
+  position: relative;
+  transform: translateY(-500px);
+}
+
+.our-team {
+  margin: 100px 10px 10px;
+  padding: 10px;
+  position: relative;
+}
+
+.member1 {
+  margin: 10px;
+  padding: 10px;
+  display: flex;
+}
+
+.member1-titles {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.member1-titles p {
+  text-align: center;
+  font-size: 1.8rem;
+}
+
+.member1-titles div:first-of-type {
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  display: flex;
+}
+
+.member1-titles div:first-of-type img:hover {
+  animation-name: logo-size;
+  animation-duration: 1s;
+  animation-iteration-count: infinite;
+}
+
+.member1-img {
+  object-fit: cover;
+  background: url("../../irakli.8d0c2900.webp") -200px no-repeat;
+  border-radius: 10px;
+  width: 50rem;
+  max-width: 16rem;
+  height: 350px;
+  margin: 10px;
+}
+
+.member1 ul {
+  margin: 5px;
+  padding: 5px;
+}
+
+.member1 ul .team-member-main-intro {
+  max-width: auto;
+  opacity: 1;
+  margin: 5px 5px 5px 0;
+  list-style-type: none;
+}
+
+.member1 ul li {
+  opacity: .8;
+  max-width: 55rem;
+  margin: 5px 5px 5px 20px;
+}
+
+@keyframes logo-size {
+  0% {
+    transform: scale(1);
+  }
+
+  50% {
+    transform: scale(1.1);
+  }
+
+  100% {
+    transform: scale(1);
+  }
+}
+
+@keyframes bgvideo-move {
+  from {
+    top: -500px;
+  }
+
+  to {
+    top: 0;
+  }
+}
+
+@keyframes about-text-move {
+  from {
+    transform: translateY(-500px);
+  }
+
+  to {
+    transform: translateY(0);
+  }
+}
+
+@keyframes license-card-move {
+  from {
+    transform: translateX(-1000px);
+  }
+
+  to {
+    transform: translateX(0);
+  }
+}
+/*# sourceMappingURL=index.aa9be65c.css.map */

@@ -1,0 +1,157 @@
+.about-paragliding {
+  color: #fff;
+  background: #0c53ece6 url("giphy.36644516.gif") center no-repeat;
+  border-top: 5px solid #000;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 80px 20px;
+  display: flex;
+  position: relative;
+  overflow: hidden;
+}
+
+.about-paragliding .container1-title {
+  text-align: center;
+  margin-top: 50px;
+  font-size: 2.7rem;
+}
+
+.about-paragliding .container1-title2 {
+  text-align: center;
+  margin-top: 40px;
+  font-size: 1.5rem;
+}
+
+.animation-texts {
+  grid-template-rows: repeat(6, 90px);
+  grid-template-columns: repeat(4, 1fr);
+  place-items: center;
+  width: 100%;
+  padding: 10px;
+  display: grid;
+  position: relative;
+  overflow-x: hidden;
+}
+
+.animation-texts2 {
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 10px;
+  margin: 50px 50px 20px;
+  display: none;
+}
+
+#movingText {
+  cursor: pointer;
+  transition: all .1s;
+}
+
+.animation-texts .items {
+  letter-spacing: 1px;
+  opacity: .9;
+  -webkit-user-select: none;
+  user-select: none;
+  font-size: 1.1rem;
+  transition: all .5s;
+  animation-duration: 10s;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+  position: relative;
+}
+
+.item1 {
+  grid-row: 1 / 2;
+  justify-self: start;
+  animation-name: textMoveFront;
+  left: 70px;
+}
+
+.item2 {
+  grid-area: 2 / 2 / 4 / 4;
+  justify-self: start;
+  animation-name: textMoveBack;
+}
+
+.item3 {
+  grid-area: 5 / 3 / 6 / 5;
+  animation-name: textMoveBack;
+}
+
+.item4 {
+  text-align: center;
+  grid-area: 3 / 2 / 5 / 5;
+  animation-name: textMoveFront;
+}
+
+.item5 {
+  grid-area: 6 / 1 / 7 / 4;
+  animation-name: textMoveFront;
+}
+
+.item6 {
+  grid-area: 1 / 3 / 2 / 4;
+  justify-self: end;
+  animation-name: textMoveFront;
+  left: 50px;
+}
+
+.item7 {
+  grid-area: 2 / 4 / auto / 5;
+  justify-self: self-start;
+  animation-name: textMoveBack;
+}
+
+.item8 {
+  grid-row: 4 / 5;
+  justify-self: start;
+  margin-top: 50px;
+  animation-name: textMoveFront;
+  left: 140px;
+}
+
+@keyframes textMoveFront {
+  0% {
+    transform: translateX(0);
+  }
+
+  25% {
+    transform: translateX(30px);
+  }
+
+  50% {
+    transform: translateX(0);
+  }
+
+  75% {
+    transform: translateX(-30px);
+  }
+
+  100% {
+    transform: translateX(0);
+  }
+}
+
+@keyframes textMoveBack {
+  0% {
+    transform: translateX(0);
+  }
+
+  25% {
+    transform: translateX(-30px);
+  }
+
+  50% {
+    transform: translateX(0);
+  }
+
+  75% {
+    transform: translateX(30px);
+  }
+
+  100% {
+    transform: translateX(0);
+  }
+}
+/*# sourceMappingURL=index.0347846b.css.map */

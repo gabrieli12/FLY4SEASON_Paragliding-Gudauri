@@ -1,0 +1,81 @@
+.fly-types {
+  background: url("snow.73cb6910.gif");
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  margin-bottom: 50px;
+  padding: 50px 20px;
+  display: flex;
+}
+
+.fly-container {
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  font-family: sans-serif;
+  display: flex;
+}
+
+.fly-container a {
+  margin: 50px;
+}
+
+.fly-card {
+  border-radius: 10px;
+  height: 500px;
+  position: relative;
+  overflow: hidden;
+  box-shadow: 5px 5px 20px #020a3f;
+}
+
+.fly-card img {
+  object-fit: cover;
+  border-radius: 10px;
+  width: 350px;
+  height: 500px;
+  transition: all .5s;
+}
+
+.fly-intro {
+  box-sizing: border-box;
+  color: #fff;
+  background: #00000092;
+  width: 350px;
+  height: 70px;
+  padding: 6px 10px;
+  transition: all .2s;
+  position: absolute;
+  bottom: 0;
+}
+
+.fly-intro h2 {
+  margin: 10px;
+  font-family: Roboto, sans-serif;
+  font-size: 2rem;
+}
+
+.fly-p {
+  visibility: hidden;
+  opacity: 0;
+  margin: 20px;
+  font-size: 20px;
+}
+
+.fly-card:hover {
+  cursor: pointer;
+}
+
+.fly-card:hover .fly-intro {
+  background: #000000b6;
+  height: 250px;
+}
+
+.fly-card:hover .fly-p {
+  opacity: 1;
+  visibility: visible;
+}
+
+.fly-card:hover .fly-img {
+  transform: scale(1.1)rotate(-3deg);
+}
+/*# sourceMappingURL=index.2f57d566.css.map */

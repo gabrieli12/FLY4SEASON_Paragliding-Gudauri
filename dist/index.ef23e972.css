@@ -1,0 +1,92 @@
+.feedback {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  width: 100%;
+  margin-bottom: 150px;
+  padding: 40px 0;
+  display: flex;
+}
+
+.feedback_title {
+  letter-spacing: 1px;
+  text-align: center;
+  padding: 10px;
+  font-family: Roboto, sans-serif;
+  font-size: 2.1rem;
+}
+
+.comments_company {
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  padding: 10px;
+  display: flex;
+}
+
+.guest-profile {
+  justify-content: center;
+  align-items: flex-start;
+  padding: 15px;
+  display: flex;
+}
+
+.guest-profile img {
+  object-fit: cover;
+  border: 1px solid gray;
+  border-radius: 50%;
+  width: 45px;
+  height: 45px;
+  margin: 5px;
+}
+
+.guest-name {
+  color: #2d3e04;
+  margin-top: 5px;
+  margin-left: 10px;
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+.guest-name span {
+  margin: -5px;
+}
+
+.guest-comment {
+  max-width: 30rem;
+  margin: 0 5px;
+  padding: 0 5px;
+  font-size: .9rem;
+  line-height: 25px;
+}
+
+.feedback-stars {
+  font-size: 1.2rem;
+}
+
+.comments {
+  background-color: #acff2f17;
+}
+
+.company_feedback {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  display: flex;
+}
+
+.company_feedback p {
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 1.7rem;
+  line-height: 35px;
+}
+
+.company_feedback img {
+  width: 130px;
+  height: 130px;
+}
+/*# sourceMappingURL=index.ef23e972.css.map */

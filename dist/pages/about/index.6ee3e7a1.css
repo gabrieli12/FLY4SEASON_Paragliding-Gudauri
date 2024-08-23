@@ -1,0 +1,85 @@
+.slider {
+  z-index: 1;
+  border-radius: 20px;
+  justify-content: center;
+  align-items: center;
+  width: 700px;
+  max-width: 90vw;
+  height: 400px;
+  margin-top: 150px;
+  padding: 20px;
+  animation: .7s forwards license-card-move;
+  display: flex;
+  position: relative;
+  overflow: hidden;
+  transform: translateY(-1000px);
+}
+
+.slider .list {
+  width: max-content;
+  height: 100%;
+  transition: all 1s;
+  display: flex;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.slider .list img {
+  object-fit: contain;
+  border-radius: 10px;
+  width: 700px;
+  max-width: 90vw;
+  height: 100%;
+  margin: 20px;
+}
+
+.slider .buttons {
+  z-index: 99999999;
+  justify-content: space-between;
+  width: 100%;
+  display: flex;
+  position: absolute;
+  top: 45%;
+}
+
+.slider .buttons button {
+  color: #fff;
+  z-index: 9999999;
+  cursor: pointer;
+  background-color: #0000006a;
+  border: none;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  font-family: monospace;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.slider .dots {
+  color: #fff;
+  justify-content: center;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  position: absolute;
+  bottom: 10px;
+  left: 0;
+}
+
+.slider .dots li {
+  background-color: #1d4c4ebd;
+  border-radius: 20px;
+  width: 10px;
+  height: 10px;
+  margin: 10px;
+  list-style: none;
+  transition: all .5s;
+}
+
+.slider .dots li.active {
+  width: 30px;
+}
+/*# sourceMappingURL=index.6ee3e7a1.css.map */

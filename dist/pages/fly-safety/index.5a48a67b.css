@@ -1,0 +1,333 @@
+@import "https://fonts.googleapis.com/css2?family=Jersey+25&display=swap";
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: linear-gradient(#d9dd666f, #fff, #d1dd6620, #fff);
+  min-height: 100vh;
+  font-family: Roboto, sans-serif;
+  overflow-x: hidden;
+}
+
+.fly-safety-background-video {
+  background: linear-gradient(#000000d2, #0000);
+  width: 100%;
+  height: 400px;
+  position: absolute;
+  top: 0;
+  overflow: hidden;
+}
+
+.fly-safety-background-video video {
+  z-index: -1;
+  width: 100%;
+  height: auto;
+  min-height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.menu li a {
+  transition: all .5s;
+}
+
+.section1 {
+  margin: 130px 10px 10px;
+  padding: 10px;
+  position: relative;
+}
+
+.intro-title {
+  text-align: center;
+  color: #fff;
+  letter-spacing: 1px;
+  font-family: "Jersey 25", sans-serif;
+  font-size: 3rem;
+  animation: 1s forwards fly-safety-main-intro;
+  position: relative;
+}
+
+.why-with-us {
+  backdrop-filter: blur(20px);
+  color: #000;
+  background: linear-gradient(#fff, #66a6dd6f);
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+  padding: 40px 10px;
+  display: flex;
+  overflow: hidden;
+}
+
+.why-with-us-intro-texts-container {
+  max-width: 50%;
+  margin: 5px;
+  padding: 5px;
+  animation: 1s forwards why-with-us-move;
+  position: relative;
+}
+
+.intro {
+  align-items: center;
+  padding-left: 20px;
+  display: flex;
+}
+
+.intro div {
+  z-index: 99;
+  background-color: #1c8d9c;
+  border-radius: 50px;
+  width: 80px;
+  height: 3px;
+  margin: 10px;
+}
+
+.intro p {
+  margin: 5px 10px;
+  padding: 5px;
+  font-size: 1.2rem;
+}
+
+.why-with-us-texts {
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  display: flex;
+}
+
+.why-with-us-texts p {
+  margin: 5px 0;
+  padding: 5px 0;
+  font-family: "Jersey 25", sans-serif;
+  font-size: 2rem;
+}
+
+.why-with-us-texts ul {
+  z-index: 99;
+  margin: 5px;
+  padding: 5px;
+}
+
+.why-with-us-texts ul li {
+  letter-spacing: 1px;
+  filter: brightness(.5);
+  background-image: url("../../send-mark-removebg-preview.1937c3d5.png");
+  background-position: 0;
+  background-repeat: no-repeat;
+  background-size: 40px;
+  width: 90%;
+  margin: 0;
+  padding: 15px 0 15px 54px;
+  line-height: 27px;
+  list-style: none;
+}
+
+.why-with-us iframe {
+  border-radius: 10px;
+  margin: 40px 10px 10px;
+  animation: 1s forwards why-with-us-video-move;
+  position: relative;
+}
+
+.comfort-and-quality {
+  background: linear-gradient(to top, #fff, #66a6dd6f);
+  justify-content: center;
+  align-items: center;
+  padding: 30px 10px;
+  display: flex;
+}
+
+.comfort-intro {
+  max-width: 40rem;
+  margin: 10px;
+  padding: 10px;
+}
+
+.comfort-intro p {
+  margin: 5px 10px;
+  padding: 5px;
+  font-family: "Jersey 25", sans-serif;
+  font-size: 2rem;
+}
+
+.comfort-intro ul li {
+  letter-spacing: 1px;
+  background-image: url("../../send-mark-removebg-preview.1937c3d5.png");
+  background-position: 0;
+  background-repeat: no-repeat;
+  background-size: 40px;
+  max-width: 90%;
+  margin: 0;
+  padding: 10px 0 10px 54px;
+  line-height: 27px;
+  list-style: none;
+}
+
+.imgs-book-container {
+  flex-wrap: wrap;
+  display: flex;
+}
+
+.imgs-book-container .img {
+  border-radius: 5px;
+  width: 330px;
+  height: 180px;
+  margin: 10px;
+  box-shadow: 0 0 10px #0d5c84;
+}
+
+.imgs-book-container .img1 {
+  background: url("../../lasha2.8b54f8e0.jpg") -300px -300px no-repeat;
+}
+
+.imgs-book-container .img2 {
+  background: url("../../irakli.8d0c2900.webp") -150px -300px no-repeat;
+}
+
+.book-now {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.book-now button {
+  letter-spacing: 1px;
+  color: #fff;
+  cursor: pointer;
+  background-color: #0e2d48;
+  border: none;
+  border-radius: 10px;
+  margin: 20px;
+  padding: 15px 30px;
+  font-family: "Jersey 25", sans-serif;
+  font-size: 1.4rem;
+  transition: all .5s;
+}
+
+.book-now button:hover {
+  background-color: #0e2d48cc;
+}
+
+.pilots {
+  justify-content: space-evenly;
+  align-items: center;
+  width: 100%;
+  margin: 30px 0 100px;
+  padding: 30px 10px;
+  display: flex;
+  position: relative;
+}
+
+.img {
+  flex-direction: column;
+  margin: 10px;
+  padding: 10px;
+  display: flex;
+}
+
+.img h1 {
+  letter-spacing: 4px;
+  margin: 0 10px;
+  padding: 5px 10px;
+  font-family: "Jersey 25", sans-serif;
+  font-size: 3rem;
+}
+
+.pilot1 .img .Img {
+  background: url("../../irakli.8d0c2900.webp") 0 / cover no-repeat;
+  border-radius: 20px;
+  width: 270px;
+  height: 300px;
+  margin: 10px;
+}
+
+.pilot2 .img .Img {
+  background: url("../../lasha.0388a5b0.jpg") 0 0 / cover no-repeat;
+  border-radius: 20px;
+  width: 270px;
+  height: 300px;
+  margin: 10px;
+}
+
+.img a {
+  margin: 0 5px 5px;
+  padding: 5px;
+  font-size: 1.2rem;
+  text-decoration: none;
+  position: relative;
+  left: 50%;
+  transform: translateX(-20%);
+}
+
+.img a:hover {
+  text-decoration: underline;
+}
+
+.pilot {
+  justify-content: center;
+  display: flex;
+}
+
+.experiance {
+  flex-direction: column;
+  align-items: flex-start;
+  margin-top: 65px;
+  display: flex;
+  position: relative;
+}
+
+.experiance p {
+  margin: 10px 0;
+  padding: 10px 0;
+  font-family: "Jersey 25", sans-serif;
+  font-size: 2.2rem;
+}
+
+.experiance ul {
+  margin: 5px 20px;
+}
+
+.experiance ul li {
+  letter-spacing: 1px;
+  opacity: .8;
+  margin: 5px;
+  padding: 5px;
+  font-size: 1.1rem;
+  list-style-position: outside;
+}
+
+@keyframes fly-safety-main-intro {
+  from {
+    transform: translateY(-500px);
+  }
+
+  to {
+    transform: translateX(0);
+  }
+}
+
+@keyframes why-with-us-move {
+  from {
+    transform: translateX(-1500px);
+  }
+
+  to {
+    transform: translateX(0);
+  }
+}
+
+@keyframes why-with-us-video-move {
+  from {
+    transform: translateX(1000px);
+  }
+
+  to {
+    transform: translateX(0);
+  }
+}
+/*# sourceMappingURL=index.5a48a67b.css.map */
