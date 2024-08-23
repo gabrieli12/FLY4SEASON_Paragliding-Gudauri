@@ -1,0 +1,93 @@
+.feedback{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    gap: 20px;
+    margin-bottom: 150px;
+    /* background-color: rgba(172, 255, 47, 0.09); */
+    padding: 40px 0;
+}
+
+.feedback_title{
+    font-size: 2.1rem;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 1px;
+    text-align: center;
+    padding: 10px;
+}
+
+.comments_company{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 10px;
+}
+
+.guest-profile{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 15px;
+}
+.guest-profile img{
+    border-radius: 50%;
+    margin: 5px;
+    width: 45px;
+    height: 45px;
+    object-fit: cover;
+    border: 1px solid gray;
+}
+.guest-name{
+    font-size: 1rem;
+    color: rgb(45, 62, 4);
+    font-weight: bold;
+    margin-top: 5px;
+    margin-left: 10px;
+}
+.guest-name span{
+    margin: -5px;
+}
+.guest-comment{
+   font-size: 0.9rem; 
+   max-width: 30rem;
+   line-height: 25px;
+   margin: 0 5px;
+   padding: 0 5px;
+   
+}
+.feedback-stars{
+    font-size: 1.2rem;
+}
+
+.comments{
+    background-color: rgba(172, 255, 47, 0.09);
+
+}
+
+
+
+
+
+/* company_feedback */
+.company_feedback{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+.company_feedback p{
+    text-align: center;
+    font-family: sans-serif;
+    line-height: 35px;
+    /* letter-spacing: 1px; */
+    font-size: 1.7rem;
+}
+.company_feedback img{
+    width: 130px;
+    height: 130px;
+}

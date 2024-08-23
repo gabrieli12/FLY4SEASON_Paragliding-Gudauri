@@ -1,11 +1,13 @@
 {
-  "devDependencies": {
-    "parcel": "^2.12.0"
-  },
-  "name": "slider-main",
+  "name": "fly4season-paragliding-gudauri",
   "version": "1.0.0",
-  "main": "index.js",
-  "repository": "https://github.com/gabrieli12/fly2.git",
-  "author": "gabrieli <gabrielmolodini2@gmail.com>",
-  "license": "MIT"
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Gabriel Molodini",
+  "license": "ISC",
+  "description": "paragliding company website",
+  "repository": "https://github.com/gabrieli12/FLY4SEASON_Paragliding-Gudauri.git"
 }
