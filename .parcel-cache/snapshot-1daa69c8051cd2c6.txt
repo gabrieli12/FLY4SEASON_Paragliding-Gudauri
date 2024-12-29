@@ -1,11 +1,4 @@
-6232
-132F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\csso\node_modules\css-tree\lib\syntax\node\Raw.js133688809356936399 0
-121F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\core\test\fixtures\module-a.js133688809353935701 0
-115F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-tree\cjs\generator\index.cjs133688809352346400 0
-102F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\braces\lib\parse.js133688809345870877 0
-84F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\.gitattributes133688044514557737 0
-137F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-svgo\node_modules\css-select\LICENSE133688809343085955 0
-115F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\svgo\plugins\convertTransform.js133688809352096602 0
+6116
 130F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\resolver-default\lib\DefaultResolver.js133688809343908199 0
 108F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\lines-and-columns\LICENSE133688809342844231 0
 167F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\pseudo-selectors\pseudos.d.ts133688809350407417 0
@@ -32,9 +25,9 @@
 100F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\dotenv-expand\lib133688809345705237 1
 87F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\package-lock.json133688821542266119 0
 136F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@swc\helpers\cjs\_object_without_properties_loose.cjs133688809352666428 0
-74F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist133688823772405624 1
+74F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist133728775767122735 1
 97F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\posthtml\types133688809345786688 1
-92F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\pages\about\index.html133688801295633540 0
+92F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\pages\about\index.html133728773252639251 0
 114F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\regions\ML.js133688809360895624 0
 93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\pages\contact\script.js133624133024018630 0
 121F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\dom-serializer\lib\esm\foreignNames.js133688809343992164 0
@@ -49,7 +42,7 @@
 110F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@swc\helpers\esm\_update.js133688809356073223 0
 159F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\SelectorList.js133688809354607406 0
 126F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\type-fest\source\union-to-intersection.d.ts133688809350753402 0
-77F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\scripts133624806039341904 1
+77F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\scripts133728435506118494 1
 121F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\dist\unpacker\features.js133688809358384572 0
 108F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\cosmiconfig\dist\index.js133688809347014026 0
 120F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-tree\lib\syntax\scope\selector.js133688809357179727 0
@@ -60,6 +53,26 @@
 77F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\.vscode133563583156530531 1
 123F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\runtime-browser-hmr\package.json133688809346845093 0
 114F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\source-map-js\lib\quick-sort.js133688809346195754 0
+107F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-tree\dist\csstree.js133688809355913200 0
+144F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc\lib133688809344975351 1
+91F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\svgo\bin133688809344246040 1
+95F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\responsive-media\text.txt133585880287930513 0
+92F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\slider-imgs\spring.png133565554693055344 0
+164F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\pseudo-selectors\subselects.js133688809347582667 0
+123F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-tree\lib\syntax\node\TypeSelector.js133688809357419747 0
+109F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-tree\lib\syntax\config133688809357579761 1
+114F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\regions\RU.js133688809362192233 0
+101F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\htmlnano\README.md133688809352988129 0
+99F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\type-fest\source133688809350841608 1
+116F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\svgo\plugins\removeUselessDefs.js133688809353476721 0
+114F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\regions\VA.js133688809363411056 0
+80F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\.gitignore133688826664736082 0
+131F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-select\node_modules\domutils\lib\legacy.d.ts133688809352096602 0
+130F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\csso\node_modules\mdn-data\api\inheritance.json133688809347664607 0
+148F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeViewBox.js133688809352506413 0
+93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\parcel\lib133688809344975351 1
+130F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-select\lib\pseudo-selectors\subselects.d.ts133688809353556727 0
+127F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\utility-types\dist\functional-helpers.js.map133688809346765082 0
 76F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\app.js133624757267149067 0
 150F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\core\test\fixtures\config-extends-not-found\.parcelrc-json5133688809347904629 0
 125F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\svgo\plugins\removeAttributesBySelector.js133688809352666428 0
@@ -67,7 +80,7 @@
 107F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\msgpackr-extract\LICENSE133688809342844231 0
 115F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\svgo\plugins\removeDimensions.js133688809352826452 0
 167F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\pseudo\nth-last-child.js133688809353770950 0
-94F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\pages\contact\index.html133688801523541325 0
+94F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\pages\contact\index.html133728774098129223 0
 128F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-select\node_modules\entities\lib\index.js133688809348709579 0
 114F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@swc\helpers\_\_super_prop_base133688809357983154 1
 159F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\Function.js133688809351772945 0
@@ -79,7 +92,7 @@
 114F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\codeframe\test\fixtures133688809343823873 1
 110F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\utility-types\dist\index.js133688809344893440 0
 141F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\csso\node_modules\css-tree\cjs\syntax\node\index-parse.cjs133688809351932973 0
-99F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\Dave Garcia.904fc74d.png133688823748269707 0
+99F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\Dave Garcia.904fc74d.png133728775751384493 0
 128F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\node-gyp-build-optional-packages\package.json133688809345705237 0
 160F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\restructure\1-mergeAtrule.js133688809344086032 0
 97F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\social-icons\viber-logo.png133516954455525684 0
@@ -89,7 +102,7 @@
 98F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\posthtml-parser133688809346114179 1
 127F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@swc\helpers\esm\_class_private_field_set.js133688809354691173 0
 84F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\gallery-images133620459411945552 1
-95F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\irakli.b0f26992.webp133688823673301347 0
+95F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\irakli.b0f26992.webp133728775719137191 0
 112F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\fs\lib\browser.js.map133688809348144661 0
 140F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\csso\node_modules\css-tree\cjs\syntax\atrule\supports.cjs133688809354337886 0
 101F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\tslib\package.json133688809346275751 0
@@ -135,7 +148,7 @@
 100F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\error-ex\index.js133688809343582203 0
 105F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\nth-check\package.json133688809346845093 0
 112F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\source-map-js\source-map.d.ts133688809348064651 0
-80F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\index.html133688818881117468 0
+80F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\index.html133728441295848987 0
 119F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-tree\lib\syntax\config\walker.js133688809357579761 0
 118F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\svgo\plugins\convertStyleToAttrs.js133688809352016605 0
 106F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@trysound\sax\README.md133688809345216805 0
@@ -183,7 +196,6 @@
 99F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\js-yaml\lib\type133688809349999903 1
 97F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\supports-color133688809345136799 1
 134F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\css-text-wrap-balance.js133688809357179727 0
-96F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\telegram.bac695e7.png133688822219294570 0
 149F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-select\node_modules\entities\lib\esm\decode_codepoint.d.ts.map133688809349196122 0
 88F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\site-main-logo.png133512855330825880 0
 101F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\argparse\README.md133688809346845093 0
@@ -207,7 +219,6 @@
 82F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\social-icons133597286581946968 1
 76F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\videos133595394803648614 1
 105F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\social-icons\Facebook_Logo_2023.png133516959361799371 0
-93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.4a0863e7.css133688822210649036 0
 128F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\csso\node_modules\css-tree\lib\utils\ident.js133688809356153238 0
 94F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\videos\DJI_05544 (1).mp4133595394394479991 0
 98F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\tslib\README.md133688809346683176 0
@@ -230,6 +241,14 @@
 110F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\lightningcss-win32-x64-msvc133688809344650070 1
 125F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@swc\helpers\_\_class_apply_descriptor_get133688809356638596 1
 90F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\styles\fly-types.css133625626607700430 0
+116F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\eme.js133688809358144527 0
+109F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\js-yaml\lib\schema\json.js133688809348629566 0
+112F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\svgo\plugins\removeViewBox.js133688809353602618 0
+95F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\lmdb\LICENSE133688809347984662 0
+140F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest5.c133688809353075182 0
+97F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@lezer\lr\dist133688809347174049 1
+93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\pages\contact\style.css133624758455672590 0
+104F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\node-addon-api\napi.h133688809347664607 0
 146F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\general.d.ts133688809350083610 0
 102F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\is-json\.travis.yml133688809345622680 0
 87F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\styles\footer.css133620431357092178 0
@@ -249,7 +268,7 @@
 104F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\cache\LICENSE133688809343004257 0
 105F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\parent-module\index.js133688809343582203 0
 87F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\styles\header.css133624999539328607 0
-92F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.a027dfed.js133688823770595212 0
+92F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.a027dfed.js133728775766362550 0
 106F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@swc\helpers\_\_type_of133688809358304564 1
 121F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\packager-js\lib\DevPackager.js133688809346032569 0
 89F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\styles\side-bar.css133625634207639024 0
@@ -261,7 +280,6 @@
 110F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\domutils\lib\feeds.d.ts.map133688809347254046 0
 116F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@swc\helpers\src\_ts_decorate.mjs133688809359433652 0
 114F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\regions\PY.js133688809361946876 0
-94F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\gallery.50e824a2.js133688822212256706 0
 140F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\transformer-html\node_modules\srcset\package.json133688809344406069 0
 103F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\responsive-media\media-1400px.css133688820264874180 0
 103F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\lmdb\dependencies\v8133688809354777032 1
@@ -290,17 +308,6 @@
 111F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-tree\cjs\utils\index.cjs133688809352906447 0
 96F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\mdn-data\l10n133688809346683176 1
 92F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\slider-imgs\autumn.png133565555709663021 0
-107F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-tree\dist\csstree.js133688809355913200 0
-144F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc\lib133688809344975351 1
-91F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\svgo\bin133688809344246040 1
-95F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\responsive-media\text.txt133585880287930513 0
-92F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\slider-imgs\spring.png133565554693055344 0
-164F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\pseudo-selectors\subselects.js133688809347582667 0
-123F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-tree\lib\syntax\node\TypeSelector.js133688809357419747 0
-109F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-tree\lib\syntax\config133688809357579761 1
-114F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\regions\RU.js133688809362192233 0
-101F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\htmlnano\README.md133688809352988129 0
-99F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\type-fest\source133688809350841608 1
 119F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-tree\lib\syntax\node\Selector.js133688809357179727 0
 113F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\lmdb\bin\download-prebuilds.js133688809354937037 0
 106F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\semver\functions\inc.js133688809348387903 0
@@ -316,7 +323,6 @@
 130F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@swc\helpers\_\_class_private_field_destructure133688809356831150 1
 83F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\pages\contact133623105840591385 1
 123F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\utility-types\dist\functional-helpers.js133688809344406069 0
-96F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\scripts\texts-animation.js133599010913066558 0
 128F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\arrow-functions.js133688809350327406 0
 97F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\csso\lib\clean133688809353935701 1
 142F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_load.c133688809351279850 0
@@ -345,7 +351,6 @@
 140F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\css\index.js133688809344650070 0
 114F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@swc\helpers\_\_async_generator133688809356477260 1
 93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\pages\gallery\script.js133599015346628835 0
-94F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\irakli.ebb57b02.jpg133688822218354354 0
 110F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\regenerator-runtime\LICENSE133688809342924243 0
 93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\pages\gallery\style.css133624837662251893 0
 111F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\nth-check\lib\esm\index.d.ts133688809349196122 0
@@ -363,14 +368,6 @@
 92F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\lmdb\dict133688809355672203 1
 108F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\msgpackr-extract\index.js133688809345460806 0
 97F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\pages\fly-safety\index.html133688819981093211 0
-116F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\eme.js133688809358144527 0
-109F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\js-yaml\lib\schema\json.js133688809348629566 0
-112F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\svgo\plugins\removeViewBox.js133688809353602618 0
-95F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\lmdb\LICENSE133688809347984662 0
-140F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest5.c133688809353075182 0
-97F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@lezer\lr\dist133688809347174049 1
-93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\pages\contact\style.css133624758455672590 0
-104F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\node-addon-api\napi.h133688809347664607 0
 103F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\ansi-styles\index.js133688809343582203 0
 121F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\term-size\vendor\windows\term-size.exe133688809345786688 0
 121F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\datalist.js133688809357659797 0
@@ -417,7 +414,7 @@
 149F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeDesc.js133688809351279850 0
 90F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel133688821539533469 1
 134F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-select\node_modules\entities\lib\index.d.ts.map133688809351692949 0
-101F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\DJI_05544 (1).fdbb7690.mp4133688823772395633 0
+101F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\DJI_05544 (1).fdbb7690.mp4133728775767122735 0
 104F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\csso\lib\clean\Raw.js133688809353476721 0
 156F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\Dimension.js133688809351267036 0
 101F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\htmlnano\docs\docs133688809352746433 1
@@ -511,11 +508,11 @@
 113F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\csso\node_modules\mdn-data\css133688809349999903 1
 107F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\cosmiconfig\package.json133688809347984662 0
 125F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\font-kerning.js133688809358626964 0
-92F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\img6.0e7afbdf.jpg133688823674214675 0
+92F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\img6.0e7afbdf.jpg133728775719487270 0
 88F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\clone133688809345705237 1
+135F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\react-refresh\cjs\react-refresh-babel.development.js133688809344570053 0
 100F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\lmdb\node_modules133688809309954000 1
 108F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\semver\functions\major.js133688809349359821 0
-135F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\react-refresh\cjs\react-refresh-babel.development.js133688809344570053 0
 159F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\UnicodeRange.js133688809355017045 0
 156F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\restructure\1-mergeAtrule.js133688809344086032 0
 152F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-select\node_modules\entities\lib\generated\decode-data-xml.js.map133688809350167399 0
@@ -545,9 +542,9 @@
 127F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\csso\node_modules\css-tree\cjs\utils\url.cjs133688809354691173 0
 93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-select133688809352746433 1
 129F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\htmlnano\lib\modules\removeAttributeQuotes.mjs133688809353855686 0
-106F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\workers\src\web133688809351279850 1
 91F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-tree133688809357659797 1
 145F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-select\node_modules\dom-serializer\lib\esm\foreignNames.js133688809344086032 0
+106F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\workers\src\web133688809351279850 1
 99F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\htmlnano\test.js133688809350327406 0
 134F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\csso\node_modules\css-tree\cjs\convertor\create.cjs133688809348869598 0
 109F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\nth-check\lib\parse.js.map133688809348709579 0
@@ -618,7 +615,7 @@
 113F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\core\src\Dependency.js133688809352426410 0
 132F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-select\node_modules\domutils\lib\helpers.d.ts133688809351852973 0
 90F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\globals133688809345870877 1
-94F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\autumn.ef17165f.png133688823748269707 0
+94F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\autumn.ef17165f.png133728775751384493 0
 91F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\get-port133688809345216805 1
 128F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\css-placeholder.js133688809356718596 0
 104F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\parent-module\license133688809344246040 0
@@ -631,7 +628,7 @@
 111F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\posthtml-parser\package.json133688809345378970 0
 114F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\regions\AM.js133688809349439840 0
 102F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\packager-js133688809348949605 1
-104F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\pages\about\index.8a0712e3.js133688823770595212 0
+104F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\pages\about\index.8a0712e3.js133728775766572601 0
 120F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\resolver-default\package.json133688809345056796 0
 91F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\htmlnano133688809354257883 1
 115F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\react-error-overlay\lib\index.js133688809346275751 0
@@ -643,8 +640,6 @@
 133F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\node-resolver-core\lib\builtins.browser.js133688809344406069 0
 94F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\htmlparser2133688809347582667 1
 143F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@swc\helpers\src\_class_static_private_field_destructure.mjs133688809358788320 0
-109F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\pages\about\index.aa9be65c.css.map133688822211919218 0
-96F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.93a7f3ce.js.map133688822211919218 0
 136F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\csso\node_modules\css-tree\cjs\syntax\node\String.cjs133688809354177877 0
 154F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\index.js133688809344893440 0
 118F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\video.js133688809363573814 0
@@ -710,7 +705,6 @@
 112F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\js-yaml\lib\schema\default.js133688809346114179 0
 117F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\type-fest\source\partial-deep.d.ts133688809349519824 0
 130F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@swc\helpers\src\_skip_first_generator_next.mjs133688809359271534 0
-111F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\pages\gallery\index.fb340acc.css.map133688822212585051 0
 135F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\scrollintoviewifneeded.js133688809362272255 0
 97F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\source-map\lib133688809347744604 1
 126F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-tree\cjs\syntax\function\expression.cjs133688809350753402 0
@@ -729,7 +723,7 @@
 136F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Atrule.cjs133688809345540816 0
 111F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\svgo\plugins\minifyStyles.js133688809352266403 0
 99F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\msgpackr-extract133688809346114179 1
-95F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\licence.41137419.jpg133688823674134654 0
+95F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\licence.41137419.jpg133728775719497294 0
 104F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\csso\dist\csso.esm.js133688809352666428 0
 135F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Value.cjs133688809354691173 0
 114F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\regions\WF.js133688809364063860 0
@@ -786,7 +780,7 @@
 121F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\css-grid.js133688809355993207 0
 112F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\csso\lib\clean\Declaration.js133688809352906447 0
 91F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\posthtml133688809345622680 1
-101F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\smith wilson.6d705ab1.jpeg133688823677926368 0
+101F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\smith wilson.6d705ab1.jpeg133728775759380974 0
 99F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\srcset\readme.md133688809344811851 0
 128F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@swc\helpers\_\_write_only_error\package.json133688809358384572 0
 115F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\update-browserslist-db\README.md133688809346114179 0
@@ -819,7 +813,7 @@
 137F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\csso\node_modules\css-tree\cjs\generator\sourceMap.cjs133688809354177877 0
 93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\source-map133688809348306394 1
 96F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\source-map-js133688809348064651 1
-110F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\pages\contact\index.d8da5dd5.js.map133688823771285367 0
+110F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\pages\contact\index.d8da5dd5.js.map133728775766892674 0
 135F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\csso\node_modules\css-tree\lib\parser\SyntaxError.js133688809357179727 0
 114F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\regions\DO.js133688809357819793 0
 89F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\srcset133688809345136799 1
@@ -923,13 +917,6 @@
 114F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\regions\VE.js133688809363493795 0
 165F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\pseudo-selectors\pseudos.js133688809347254046 0
 142F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_dump.1133688809349359821 0
-116F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\svgo\plugins\removeUselessDefs.js133688809353476721 0
-131F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-select\node_modules\domutils\lib\legacy.d.ts133688809352096602 0
-130F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\csso\node_modules\mdn-data\api\inheritance.json133688809347664607 0
-148F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeViewBox.js133688809352506413 0
-93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\parcel\lib133688809344975351 1
-130F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-select\lib\pseudo-selectors\subselects.d.ts133688809353556727 0
-127F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\utility-types\dist\functional-helpers.js.map133688809346765082 0
 106F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\chrome-trace-event\dist133688809345296815 1
 114F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\utility-types\dist\index.js.map133688809347014026 0
 144F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\scope133688809355097050 1
@@ -952,7 +939,7 @@
 126F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\update-browserslist-db\check-npm-version.js133688809343582203 0
 119F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@swc\helpers\esm\_new_arrow_check.js133688809355590383 0
 113F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\lmdb\dependencies\lmdb-data-v1133688809343004257 1
-93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\img17.8cc6c309.jpg133688823677926368 0
+93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\img17.8cc6c309.jpg133728775759120920 0
 127F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\transformer-postcss\lib\constants.js133688809343908199 0
 119F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-tree\cjs\syntax\config\lexer.cjs133688809352988129 0
 162F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\DeclarationList.js133688809351107032 0
@@ -1043,7 +1030,6 @@
 108F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\watcher\README.md133688809345786688 0
 138F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Selector.cjs133688809354017865 0
 102F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\base-x\package.json133688809343908199 0
-94F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\lasha2.8b54f8e0.jpg133688822218164307 0
 106F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\is-extglob\package.json133688809342924243 0
 111F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\type-fest\source\except.d.ts133688809347904629 0
 121F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-tree\cjs\syntax\node\Condition.cjs133688809348629566 0
@@ -1068,7 +1054,6 @@
 140F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\csso\node_modules\css-tree\cjs\syntax\node\IdSelector.cjs133688809351692949 0
 112F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\type-fest\source\mutable.d.ts133688809349196122 0
 116F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\mdn-data\css\syntaxes.schema.json133688809349439840 0
-97F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.ef23e972.css.map133688822211919218 0
 109F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\watcher\index.d.ts133688809346114179 0
 119F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-tree\lib\syntax\config\parser.js133688809357018168 0
 111F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\type-fest\source\opaque.d.ts133688809349278435 0
@@ -1135,7 +1120,7 @@
 97F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\tslib\tslib.js133688809345622680 0
 99F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\semver\README.md133688809351525468 0
 121F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\msgpackr\dist\index-no-eval.min.js.map133688809350327406 0
-106F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\pages\contact\index.d8da5dd5.js133688823770585207 0
+106F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\pages\contact\index.d8da5dd5.js133728775766552605 0
 126F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-tree\cjs\tokenizer\OffsetToLocation.cjs133688809353690954 0
 105F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\tslib\modules\index.js133688809344406069 0
 124F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\source-map-js\lib\source-map-generator.js133688809347014026 0
@@ -1230,22 +1215,21 @@
 128F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-htmlnano\lib\svgMappings.js133688809345216805 0
 108F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\semver\functions\clean.js133688809344488295 0
 119F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\svgo\plugins\cleanupNumericValues.js133688809351525468 0
-97F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.4ddbf05c.css.map133688823771305370 0
+97F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.4ddbf05c.css.map133728775766622612 0
 131F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@swc\helpers\esm\_check_private_redeclaration.js133688809354257883 0
 115F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\nth-check\lib\esm\parse.d.ts.map133688809348306394 0
 130F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\resolver-default\src\DefaultResolver.js133688809344570053 0
 105F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\svgo\lib\svgo\tools.js133688809350167399 0
-97F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.8c1b13bb.css.map133688823771285367 0
+97F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.8c1b13bb.css.map133728775766612609 0
 122F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-tree\cjs\syntax\node\Percentage.cjs133688809354017865 0
 113F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\svgo\plugins\collapseGroups.js133688809351525468 0
 131F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\csso\node_modules\css-tree\cjs\parser\create.cjs133688809349359821 0
 106F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\source-map-js\README.md133688809347904629 0
 132F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\es6-string-includes.js133688809358304564 0
-92F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\img3.9b248bc0.jpg133688823674214675 0
+92F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\img3.9b248bc0.jpg133728775719487270 0
 112F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\svgo\plugins\convertColors.js133688809351692949 0
 132F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@swc\helpers\cjs\_initializer_define_property.cjs133688809351692949 0
 139F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-select\node_modules\entities\lib\decode_codepoint.js133688809343992164 0
-106F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\pages\gallery\index.707f40ba.js133688822212176704 0
 116F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\semver\functions\compare-loose.js133688809346519189 0
 153F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\scope\value.js133688809355097050 0
 100F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\lmdb\src\misc.cpp133688809353855686 0
@@ -1256,6 +1240,8 @@
 134F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@babel\highlight\node_modules\color-convert\LICENSE133688809345460806 0
 114F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\utils\src\DefaultMap.js133688809348144661 0
 114F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\svgo\plugins\convertPathData.js133688809351852973 0
+137F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-svgo\node_modules\css-select\LICENSE133688809343085955 0
+115F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\svgo\plugins\convertTransform.js133688809352096602 0
 106F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\semver\functions\cmp.js133688809344973460 0
 101F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\micromatch\LICENSE133688809342924243 0
 97F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\events133688809347664607 1
@@ -1339,7 +1325,6 @@
 111F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\svgo\plugins\_collections.js133688809350673412 0
 108F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\node-addon-api\LICENSE.md133688809348869598 0
 107F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\safe-buffer\package.json133688809344246040 0
-101F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\fly-safety.6602f254.js.map133688822211361003 0
 104F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\svgo\plugins\_path.js133688809350833423 0
 102F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\svgo\lib\builtin.js133688809348869598 0
 99F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\svgo\lib\path.js133688809349196122 0
@@ -1406,7 +1391,6 @@
 117F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\csso\node_modules\css-tree\LICENSE133688809343085955 0
 98F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\srcset\index.js133688809343582203 0
 125F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\svg-fragment.js133688809362753530 0
-97F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\download.f4390a96.jpeg133688822217794219 0
 108F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\csso\cjs\clean\Atrule.cjs133688809347094017 0
 128F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\contenteditable.js133688809354691173 0
 102F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\srcset\package.json133688809344246040 0
@@ -1571,7 +1555,6 @@
 133F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@swc\helpers\cjs\_define_enumerable_properties.cjs133688809351027024 0
 114F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\csso\node_modules\mdn-data\l10n133688809346765082 1
 108F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\semver\functions\parse.js133688809350083610 0
-94F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\spring.c83df390.png133688822219934702 0
 125F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-tree\cjs\syntax\node\ClassSelector.cjs133688809347904629 0
 105F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\callsites\package.json133688809342924243 0
 104F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\lmdb\dependencies\lz4133688809347744604 1
@@ -1634,7 +1617,6 @@
 108F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\posthtml-render\readme.md133688809345622680 0
 111F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\cache\src\FSCache.js133688809345622680 0
 107F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-tree\dist\version.js133688809357579761 0
-93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\magda.fb62a8d9.jpg133688822219264568 0
 114F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\posthtml-render\dist\index.d.ts133688809345952537 0
 115F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\nth-check\lib\esm\compile.js.map133688809347582667 0
 112F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\posthtml-render\dist\index.js133688809343823873 0
@@ -1715,7 +1697,6 @@
 101F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\picocolors\LICENSE133688809342844231 0
 149F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\replace\Atrule.js133688809347417529 0
 152F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\bin.js133688809343823873 0
-110F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\pages\fly-safety\index.5a48a67b.css133688822212336722 0
 143F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\csso\node_modules\css-tree\lib\syntax\node\index-generate.js133688809356233236 0
 106F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\picocolors\package.json133688809344731807 0
 109F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\picocolors\picocolors.d.ts133688809345705237 0
@@ -1800,8 +1781,7 @@
 105F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\ordered-binary\LICENSE133688809342924243 0
 121F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\lmdb\node_modules\node-addon-api\tools133688809349029618 1
 110F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\ordered-binary\package.json133688809347254046 0
-94F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\winter.769ea62d.png133688822220304798 0
-93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.44062d90.css133688823770585207 0
+93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.44062d90.css133728775766342552 0
 107F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\ordered-binary\README.md133688809347417529 0
 108F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@swc\helpers\src\_jsx.mjs133688809359111511 0
 158F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\restructure\6-restructBlock.js133688809346114179 0
@@ -1855,7 +1835,7 @@
 111F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\nth-check\lib\parse.d.ts.map133688809348469564 0
 105F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\nth-check\lib\parse.js133688809346195754 0
 126F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\css-paint-api.js133688809356718596 0
-94F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\summer.3ac45de6.png133688823674214675 0
+94F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\summer.3ac45de6.png133728775719507277 0
 110F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\node-addon-api\node_api.gyp133688809344086032 0
 115F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\.bin\download-msgpackr-prebuilds133688809368261195 0
 127F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib133688809351441927 1
@@ -1899,7 +1879,6 @@
 112F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\types\lib\unsafe.d.ts133688809346765082 0
 124F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\node-gyp-build-optional-packages\index.js133688809344811851 0
 111F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-tree\cjs\lexer\Lexer.cjs133688809352988129 0
-92F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\img2.d456f66e.jpg133688822219944707 0
 103F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\json5\lib\unicode.js133688809347174049 0
 107F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@swc\helpers\_\_inherits133688809357499767 1
 127F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\node-gyp-build-optional-packages\optional.js133688809345216805 0
@@ -1921,7 +1900,7 @@
 136F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-select\node_modules\entities\lib\esm\index.js.map133688809351772945 0
 152F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-select\node_modules\entities\lib\esm\generated\decode-data-xml.js133688809346600830 0
 106F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\node-addon-api\index.js133688809348469564 0
-92F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\img2.c5a4997c.jpg133688823748419745 0
+92F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\img2.c5a4997c.jpg133728775751384493 0
 109F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\transformer-js\lib133688809344975351 1
 119F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\node-addon-api\napi-inl.deprecated.h133688809345952537 0
 115F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\cosmiconfig\dist\Explorer.js.map133688809349109631 0
@@ -1938,7 +1917,6 @@
 110F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\node-addon-api\package.json133688809348709579 0
 115F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\.bin\download-lmdb-prebuilds.cmd133688809368261195 0
 136F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\csso\node_modules\css-tree\lib\syntax\node\AnPlusB.js133688809355017045 0
-93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\lasha.0388a5b0.jpg133688822219324571 0
 119F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@swc\helpers\_\_dispose\package.json133688809357339733 0
 106F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\entities\lib\index.d.ts133688809349679882 0
 103F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\node-addon-api\tools133688809349109631 1
@@ -1995,11 +1973,9 @@
 129F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\csso\node_modules\css-tree\lib\syntax\index.js133688809356395088 0
 163F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages-optional.cmd133688809368261195 0
 119F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\tls1-1.js133688809363087511 0
-102F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\icons8-snow-50.a7055343.png133688822217764225 0
 114F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\regions\EE.js133688809358064531 0
 163F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages-optional.ps1133688809368261195 0
 114F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\regions\IE.js133688809359433652 0
-93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\img10.609571f6.jpg133688822218344352 0
 139F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Dimension.cjs133688809350578122 0
 126F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\notifications.js133688809361302868 0
 128F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\csso\node_modules\css-tree\cjs\data-patch.cjs133688809349839868 0
@@ -2017,7 +1993,6 @@
 117F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\htmlparser2\lib\Tokenizer.d.ts.map133688809347334620 0
 101F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\json5\lib\index.js133688809344975351 0
 127F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\css-dir-pseudo.js133688809355672203 0
-92F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\about.05102cc1.js133688822210649036 0
 124F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\csso\lib\restructure\8-restructRuleset.js133688809351772945 0
 102F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\msgpackr\index.d.ts133688809352186387 0
 103F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\packager-css133688809345056796 1
@@ -2149,7 +2124,7 @@
 97F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\lmdb\native.js133688809355097050 0
 101F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\lmdb\node-index.js133688809355097050 0
 114F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\regions\WS.js133688809364143879 0
-93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.c077401b.css133688823770595212 0
+93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.c077401b.css133728775766342552 0
 116F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\core\lib\applyRuntimes.js133688809348869598 0
 109F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-what\lib\es\parse.d.ts133688809349196122 0
 100F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\lmdb\package.json133688809355337083 0
@@ -2215,7 +2190,6 @@
 119F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\srcset.js133688809362592270 0
 141F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\csso\node_modules\css-tree\lib\syntax\node\SelectorList.js133688809357018168 0
 135F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\indeterminate-checkbox.js133688809359597854 0
-92F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\img5.df55eba7.jpg133688822220094747 0
 123F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\lmdb\dependencies\v8\v8-fast-api-calls.h133688809354857024 0
 125F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\workers\src\core-worker.browser.js133688809347501163 0
 110F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\csso\cjs\replace\Number.cjs133688809349919874 0
@@ -2259,7 +2233,7 @@
 120F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\lmdb\dependencies\lz4\lib\dll\example133688809355753191 1
 103F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\reporter-cli133688809347984662 1
 129F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\lmdb\dependencies\lz4\lib\dll\example\Makefile133688809348469564 0
-94F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\spring.c0c62f93.png133688823677926368 0
+94F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\spring.c0c62f93.png133728775759380974 0
 127F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\transformer-html\src\dependencies.js133688809344731807 0
 139F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\CHANGES133688809343743863 0
 107F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\escalade\sync\index.d.ts133688809346765082 0
@@ -2295,7 +2269,6 @@
 140F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest3.c133688809352906447 0
 140F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest6.c133688809353156691 0
 123F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb133688809355753191 1
-96F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.b86b9faa.js.map133688823771295365 0
 114F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-tree\lib\convertor\index.js133688809356395088 0
 107F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\transformer-html133688809346683176 1
 135F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-select\node_modules\entities\lib\esm\decode.d.ts133688809352346400 0
@@ -2305,7 +2278,7 @@
 130F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\lmdb.h133688809354429815 0
 132F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\Makefile133688809348144661 0
 112F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\lightningcss\node\ast.js.flow133688809345459352 0
-107F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\pages\gallery\index.24021c1d.css133688823770585207 0
+107F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\pages\gallery\index.24021c1d.css133728775766532595 0
 107F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\csso\lib\clean\Atrule.js133688809351852973 0
 131F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest.c133688809352826452 0
 136F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\csso\node_modules\css-tree\cjs\parser\SyntaxError.cjs133688809354337886 0
@@ -2437,7 +2410,6 @@
 100F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\is-number\LICENSE133688809344246040 0
 102F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\is-number\README.md133688809344731807 0
 126F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\csso\lib\restructure\prepare\specificity.js133688809353567346 0
-97F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.ab12f813.css.map133688822211361003 0
 130F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@swc\helpers\_\_is_native_function\package.json133688809357579761 0
 137F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\csso\node_modules\css-tree\cjs\syntax\config\lexer.cjs133688809352826452 0
 122F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\wasm-simd.js133688809363741463 0
@@ -2446,7 +2418,7 @@
 103F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\is-json\package.json133688809342844231 0
 112F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-tree\lib\walker\create.js133688809355753191 0
 111F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\abortcontroller-polyfill\src133688809347501163 1
-97F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\download.e72c8b90.jpeg133688823674134654 0
+97F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\download.e72c8b90.jpeg133728775719497294 0
 100F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\is-json\README.md133688809344246040 0
 95F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\is-json\test133688809346032569 1
 99F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\is-glob\index.js133688809343663849 0
@@ -2475,7 +2447,6 @@
 111F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\.bin\download-lmdb-prebuilds133688809368261195 0
 108F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\import-fresh\package.json133688809344246040 0
 114F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\regions\SD.js133688809362272255 0
-114F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\pages\fly-safety\index.5a48a67b.css.map133688822212585051 0
 98F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\htmlparser2\lib133688809348387903 1
 134F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\workers\test\integration\workerfarm\ping.js133688809349679882 0
 125F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-select\node_modules\domhandler\LICENSE133688809343085955 0
@@ -2493,11 +2464,11 @@
 138F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\parser133688809354607406 1
 113F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\htmlparser2\lib\FeedHandler.js133688809343823873 0
 130F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-select\node_modules\domhandler\package.json133688809346600830 0
-102F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\site-main-logo.30ba6ac2.png133688823748269707 0
+102F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\site-main-logo.30ba6ac2.png133728775719497294 0
 116F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\transformer-babel\LICENSE133688809343004257 0
 113F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\htmlparser2\lib\index.d.ts.map133688809346927789 0
 118F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-select\lib\esm\compile.d.ts.map133688809350487435 0
-93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.7263910b.css133688823770595212 0
+93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.7263910b.css133728775766342552 0
 114F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\htmlparser2\lib\Parser.d.ts.map133688809347094017 0
 159F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\config\parser.js133688809354177877 0
 116F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\htmlparser2\lib\WritableStream.js133688809346032569 0
@@ -2571,7 +2542,7 @@
 122F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\htmlnano\lib\modules\removeComments.cjs133688809349196122 0
 162F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\atrule\font-face.js133688809351692949 0
 122F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\htmlnano\lib\modules\removeComments.mjs133688809353855686 0
-93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\img13.383bd03a.jpg133688823748179681 0
+93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\img13.383bd03a.jpg133728775751384493 0
 126F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\htmlnano\lib\modules\removeOptionalTags.cjs133688809349439840 0
 135F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib\svgo.js133688809353236700 0
 144F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\csso\node_modules\css-tree\cjs\tokenizer\OffsetToLocation.cjs133688809353396721 0
@@ -2603,7 +2574,6 @@
 126F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\css-image-set.js133688809356153238 0
 114F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\profiler\lib\types.d.ts133688809348469564 0
 115F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\htmlnano\docs\versioned_sidebars133688809351692949 1
-110F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\pages\contact\index.6061ba59.js.map133688822211361003 0
 111F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\logger\lib\Logger.js133688809343908199 0
 143F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\htmlnano\docs\versioned_sidebars\version-1.1.1-sidebars.json133688809351609844 0
 103F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\fill-range\README.md133688809344893440 0
@@ -2668,7 +2638,6 @@
 115F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-what\lib\commonjs\parse.d.ts133688809349029618 0
 104F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\escalade\package.json133688809344975351 0
 139F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@swc\helpers\_\_is_native_reflect_construct\package.json133688809357659797 0
-96F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.7c0ccee6.js.map133688822211361003 0
 101F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\escalade\readme.md133688809345460806 0
 96F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\escalade\sync133688809346765082 1
 131F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\css-letter-spacing.js133688809356233236 0
@@ -2693,7 +2662,7 @@
 115F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\cosmiconfig\dist\ExplorerSync.js133688809346114179 0
 162F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\utils\createCustomError.js133688809349919874 0
 99F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\entities\LICENSE133688809342844231 0
-109F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\pages\about\index.13c7d186.css.map133688823771325378 0
+109F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\pages\about\index.13c7d186.css.map133728775766892674 0
 110F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-image\lib133688809343743863 1
 104F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\entities\package.json133688809347664607 0
 131F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-svgo\node_modules\csso\LICENSE133688809343085955 0
@@ -2724,8 +2693,7 @@
 94F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\gallery-images\img19.jpg133620457612496676 0
 109F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@babel\highlight\README.md133688809343502176 0
 130F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\entities\lib\generated\decode-data-xml.d.ts.map133688809348226209 0
-93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\img18.648880bf.jpg133688823674134654 0
-94F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\contact.a0c1c411.js133688822210649036 0
+93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\img18.648880bf.jpg133728775719497294 0
 124F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\entities\lib\generated\decode-data-xml.js133688809345705237 0
 126F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\electron-to-chromium\chromium-versions.json133688809346275751 0
 126F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\transformer-svg\lib\dependencies.js133688809343908199 0
@@ -2747,12 +2715,10 @@
 132F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\csso\node_modules\css-tree\lib\convertor\index.js133688809356313242 0
 129F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\csso\node_modules\mdn-data\css\properties.json133688809348709579 0
 133F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\dom-serializer\node_modules\entities\lib\decode.js133688809344488295 0
-110F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\pages\gallery\index.707f40ba.js.map133688822212336722 0
 104F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\dotenv-expand\LICENSE133688809344811851 0
 109F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\dotenv-expand\package.json133688809343004257 0
 108F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\dotenv-expand\lib\main.js133688809345786688 0
 99F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\dotenv\config.js133688809344326057 0
-112F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\Instagram_logo_2016.svg.e54ecc2d.webp133688822217204090 0
 93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\dotenv\lib133688809346435772 1
 97F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\dotenv\LICENSE133688809344811851 0
 119F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-tree\lib\lexer\generic-urange.js133688809356233236 0
@@ -2787,7 +2753,6 @@
 103F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\csso\lib\restructure133688809353770950 1
 114F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\domutils\lib\traversal.d.ts.map133688809348306394 0
 113F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@swc\helpers\cjs\_inherits.cjs133688809351609844 0
-107F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\pages\gallery\index.fb340acc.css133688822212336722 0
 116F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\dist\lib\statuses.js133688809362592270 0
 108F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\domutils\lib\traversal.js133688809346845093 0
 97F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\domhandler\lib133688809346845093 1
@@ -2863,13 +2828,12 @@
 122F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\transformer-babel\src\babel7.js133688809344570053 0
 134F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\csso\node_modules\mdn-data\css\at-rules.schema.json133688809346435772 0
 122F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\csso\node_modules\mdn-data\css\index.js133688809344650070 0
-93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.0347846b.css133688822210753461 0
 144F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\clean\Raw.js133688809351027024 0
 121F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-tree\lib\syntax\node\StyleSheet.js133688809357259731 0
 136F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\csso\node_modules\mdn-data\css\properties.schema.json133688809348869598 0
 111F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\workers\src\index.js133688809349109631 0
 115F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\abortcontroller-polyfill\LICENSE133688809343004257 0
-100F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\youtube-logo.91cb5f3a.png133688823677926368 0
+100F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\youtube-logo.91cb5f3a.png133728775759390974 0
 123F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\csso\node_modules\mdn-data\css\readme.md133688809349999903 0
 127F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\csso\node_modules\mdn-data\css\syntaxes.json133688809349359821 0
 128F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\csso\node_modules\css-tree\lib\lexer\error.js133688809355913200 0
@@ -2960,6 +2924,7 @@
 129F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\addeventlistener.js133688809346683176 0
 150F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\csso\node_modules\css-tree\lib\syntax\node\PseudoElementSelector.js133688809356936399 0
 134F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\csso\node_modules\css-tree\lib\syntax\node\Ratio.js133688809356936399 0
+132F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\csso\node_modules\css-tree\lib\syntax\node\Raw.js133688809356936399 0
 134F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@swc\helpers\esm\_class_extract_field_descriptor.js133688809354527410 0
 130F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\csso\node_modules\css-tree\cjs\utils\string.cjs133688809354257883 0
 114F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\regions\RO.js133688809362110500 0
@@ -3055,7 +3020,6 @@
 111F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-tree\cjs\utils\names.cjs133688809353476721 0
 137F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\csso\node_modules\css-tree\cjs\syntax\pseudo\index.cjs133688809352506413 0
 137F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\csso\node_modules\css-tree\cjs\syntax\node\AnPlusB.cjs133688809345136799 0
-93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\img15.664a6bdb.jpg133688822218634414 0
 143F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\csso\node_modules\css-tree\cjs\syntax\node\AtrulePrelude.cjs133688809346032569 0
 147F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\csso\node_modules\css-tree\cjs\syntax\node\AttributeSelector.cjs133688809346927789 0
 108F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@swc\helpers\_\_ts_values133688809358224554 1
@@ -3115,14 +3079,13 @@
 123F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\csso\lib\restructure\3-disjoinRuleset.js133688809351522471 0
 147F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\csso\node_modules\css-tree\cjs\definition-syntax\SyntaxError.cjs133688809354337886 0
 140F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\csso\node_modules\css-tree\cjs\definition-syntax\walk.cjs133688809354857024 0
-92F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\img1.6af792d3.jpg133688823748269707 0
+92F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\img1.6af792d3.jpg133728775751384493 0
 101F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\csso\lib\syntax.js133688809353602618 0
 130F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\css-logical-props.js133688809356233236 0
 102F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\csso\lib\version.js133688809353935701 0
 120F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\csso\lib\restructure\1-mergeAtrule.js133688809351361931 0
 126F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\csso\lib\restructure\4-restructShorthand.js133688809351605864 0
 122F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\csso\lib\restructure\6-restructBlock.js133688809351692949 0
-97F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.d97706d4.css.map133688822217694197 0
 113F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\cosmiconfig\dist\defaults.d.ts133688809351279850 0
 121F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\csso\lib\restructure\7-mergeRuleset.js133688809351692949 0
 111F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\csso\lib\restructure\prepare133688809353556727 1
@@ -3144,7 +3107,7 @@
 105F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\csso\lib\clean\Rule.js133688809353476721 0
 114F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\regions\ST.js133688809362592270 0
 113F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\csso\lib\clean\TypeSelector.js133688809353602618 0
-99F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\Ahmad Jurri.2b16d7e4.png133688823674214675 0
+99F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\Ahmad Jurri.2b16d7e4.png133728775719497294 0
 100F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\csso\dist\csso.js133688809352906447 0
 104F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-tree\cjs\data.cjs133688809349999903 0
 114F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\regions\AF.js133688809347094017 0
@@ -3190,7 +3153,6 @@
 107F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\csso\cjs\clean\index.cjs133688809349359821 0
 121F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@swc\helpers\src\_set_prototype_of.mjs133688809359271534 0
 112F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\csso\cjs\clean\WhiteSpace.cjs133688809351279850 0
-94F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\autumn.c3705b55.png133688822219954712 0
 144F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\lib\svgo-node.js133688809352906447 0
 95F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-what\lib133688809344568722 1
 135F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib\path.js133688809350659503 0
@@ -3207,7 +3169,7 @@
 132F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\css-scroll-timeline.js133688809356936399 0
 117F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-tree\lib\syntax\node\Number.js133688809356852501 0
 107F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-what\lib\es\index.js133688809344893440 0
-97F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.c077401b.css.map133688823771325378 0
+97F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.c077401b.css.map133728775766632617 0
 156F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\replace\AttributeSelector.js133688809347582667 0
 113F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-what\lib\es\parse.d.ts.map133688809347904629 0
 107F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-what\lib\es\parse.js133688809345952537 0
@@ -3224,7 +3186,7 @@
 119F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-tree\lib\syntax\node\Operator.js133688809356936399 0
 113F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-what\lib\es\types.d.ts.map133688809348549577 0
 107F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-what\lib\es\types.js133688809347094017 0
-93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.d459e38b.css133688823770585207 0
+93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.d459e38b.css133728775766342552 0
 119F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-what\lib\commonjs\parse.d.ts.map133688809347744604 0
 94F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\.bin\semver133688809368450352 0
 113F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-what\lib\commonjs\parse.js133688809345460806 0
@@ -3296,7 +3258,6 @@
 127F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\core\test\fixtures\duplicate-targets133688809356477260 1
 122F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-tree\lib\syntax\config\generator.js133688809356233236 0
 134F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\css-placeholder-shown.js133688809356718596 0
-93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\img14.3c6f04b1.jpg133688822220164762 0
 118F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-tree\lib\syntax\node\AnPlusB.js133688809355257073 0
 114F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\regions\CY.js133688809357579761 0
 112F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@swc\helpers\esm\_inherits.js133688809355337083 0
@@ -3317,7 +3278,7 @@
 116F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-tree\lib\syntax\node\index.js133688809356558586 0
 121F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-tree\lib\syntax\node\MediaQuery.js133688809356801171 0
 126F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\css-scrollbar.js133688809356936399 0
-110F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\pages\gallery\index.698ceba0.js.map133688823771265360 0
+110F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\pages\gallery\index.698ceba0.js.map133728775766842666 0
 125F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-tree\lib\syntax\node\MediaQueryList.js133688809356821166 0
 114F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\regions\ES.js133688809358144527 0
 132F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\http-live-streaming.js133688809359353592 0
@@ -3414,7 +3375,7 @@
 115F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\source-map\dist\types.js133688809348064651 0
 126F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-tree\cjs\syntax\node\index-generate.cjs133688809352096602 0
 132F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-tree\cjs\syntax\node\index-parse-selector.cjs133688809352186387 0
-92F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\img1.24c56194.jpg133688823748269707 0
+92F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\img1.24c56194.jpg133728775751384493 0
 112F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features.js133688809358384572 0
 117F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-tree\cjs\syntax\node\index.cjs133688809352666428 0
 126F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-tree\cjs\syntax\node\MediaCondition.cjs133688809353236700 0
@@ -3464,7 +3425,6 @@
 120F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-tree\cjs\syntax\atrule\import.cjs133688809352096602 0
 114F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\regions\HN.js133688809359271534 0
 141F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@swc\helpers\_\_class_apply_descriptor_update\package.json133688809356638596 0
-92F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\snow.73cb6910.gif133688822217374130 0
 151F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\cleanupAttrs.js133688809347094017 0
 119F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-tree\cjs\syntax\atrule\index.cjs133688809352586418 0
 118F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-tree\cjs\syntax\atrule\nest.cjs133688809353567346 0
@@ -3492,6 +3452,9 @@
 111F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-tree\cjs\lexer\units.cjs133688809354857024 0
 116F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-tree\cjs\generator\create.cjs133688809349196122 0
 116F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@swc\helpers\_\_apply_decs_2203_r133688809356313242 1
+121F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\core\test\fixtures\module-a.js133688809353935701 0
+115F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-tree\cjs\generator\index.cjs133688809352346400 0
+102F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\braces\lib\parse.js133688809345870877 0
 122F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-tree\cjs\generator\token-before.cjs133688809354607406 0
 123F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-tree\cjs\definition-syntax\parse.cjs133688809353935701 0
 146F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\core\test\fixtures\custom-format-infer-ext\package.json133688809356395088 0
@@ -3519,11 +3482,10 @@
 105F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\commander\CHANGELOG.md133688809345786688 0
 135F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@swc\helpers\_\_interop_require_default\package.json133688809357579761 0
 133F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-select\node_modules\entities\lib\decode.js.map133688809350407417 0
-105F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\pages\about\index.6ee3e7a1.css133688822212256706 0
-99F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\pages\contact\index.html133688823770585207 0
+99F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\pages\contact\index.html133728775766392556 0
 145F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-select\node_modules\entities\lib\decode_codepoint.d.ts.map133688809349109631 0
 128F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@swc\helpers\esm\_interop_require_wildcard.js133688809355417095 0
-93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\lasha.5d236b7d.jpg133688823677926368 0
+93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\lasha.5d236b7d.jpg133728775759120920 0
 154F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\lib\svgo\css-class-list.js133688809349359821 0
 129F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\css-env-function.js133688809355753191 0
 143F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-select\node_modules\entities\lib\decode_codepoint.js.map133688809349359821 0
@@ -3683,7 +3645,6 @@
 135F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-select\node_modules\domhandler\lib\node.d.ts.map133688809347417529 0
 129F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-select\node_modules\domhandler\lib\node.js133688809345952537 0
 111F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@swc\helpers\src\_update.mjs133688809359515858 0
-92F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\img2.78669445.jpg133688822218534388 0
 110F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\bundler-default\src133688809344975351 1
 129F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@swc\helpers\_\_apply_decs_2203_r\package.json133688809356313242 0
 139F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-select\node_modules\domhandler\lib\esm\node.d.ts.map133688809347254046 0
@@ -3695,7 +3656,7 @@
 129F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-select\lib\pseudo-selectors\index.d.ts.map133688809351525468 0
 147F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-select\node_modules\dom-serializer\lib\foreignNames.d.ts.map133688809347014026 0
 141F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-select\node_modules\dom-serializer\lib\foreignNames.js133688809344893440 0
-93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\img10.750e6f3f.jpg133688823748269707 0
+93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\img10.750e6f3f.jpg133728775751384493 0
 140F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-select\node_modules\dom-serializer\lib\index.d.ts.map133688809347336053 0
 128F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\background-sync.js133688809352096602 0
 157F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\Percentage.js133688809354257883 0
@@ -3748,7 +3709,6 @@
 118F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\regions\alt-sa.js133688809349109631 0
 116F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-select\lib\esm\index.d.ts.map133688809351361931 0
 114F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-select\lib\esm\index.js.map133688809351609844 0
-92F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\gela.eca6c759.jpg133688822217804229 0
 155F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\sortDefsChildren.js133688809352746433 0
 115F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-select\lib\esm\sort.d.ts.map133688809352096602 0
 110F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\css-select\lib\esm\types.js133688809349278435 0
@@ -3896,7 +3856,7 @@
 118F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\regions\alt-af.js133688809348226209 0
 118F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\regions\alt-as.js133688809348549577 0
 118F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\regions\alt-eu.js133688809348709579 0
-92F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\img2.b6e866fb.jpg133688823677926368 0
+92F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\img2.b6e866fb.jpg133728775759390974 0
 125F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\style-scoped.js133688809362673526 0
 118F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\regions\alt-oc.js133688809349029618 0
 114F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\regions\AR.js133688809349839868 0
@@ -3908,7 +3868,6 @@
 114F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\regions\AU.js133688809350941914 0
 132F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\css-text-align-last.js133688809357098171 0
 114F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\regions\AW.js133688809351525468 0
-97F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\fly-safety.6602f254.js133688822210649036 0
 147F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\walker\index.js133688809353075182 0
 114F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\regions\AX.js133688809351609844 0
 133F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\css-deviceadaptation.js133688809355672203 0
@@ -3957,7 +3916,6 @@
 114F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\regions\FJ.js133688809358464566 0
 122F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@swc\helpers\src\_non_iterable_rest.mjs133688809359191525 0
 102F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\workers\src133688809351525468 1
-95F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\irakli.8d0c2900.webp133688822216327384 0
 123F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\core\test\RequestTracker.test.js133688809355337083 0
 114F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\regions\FK.js133688809358544581 0
 114F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\regions\FM.js133688809358544581 0
@@ -3989,7 +3947,6 @@
 129F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@swc\helpers\esm\_class_private_method_init.js133688809354777032 0
 114F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\regions\HU.js133688809359433652 0
 104F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@swc\helpers\_\_throw133688809358064531 1
-93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\lasha.a75c7a2d.jpg133688822219264568 0
 118F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\package-manager\src\Yarn.js133688809350167399 0
 114F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\regions\ID.js133688809359433652 0
 114F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\regions\IM.js133688809359515858 0
@@ -4108,7 +4065,6 @@
 134F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\background-attachment.js133688809351772945 0
 114F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\regions\UG.js133688809363329127 0
 114F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\regions\US.js133688809363411056 0
-114F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\regions\VA.js133688809363411056 0
 114F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\regions\VG.js133688809363493795 0
 114F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\regions\VI.js133688809363493795 0
 114F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\regions\VU.js133688809363578958 0
@@ -4158,7 +4114,7 @@
 120F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\ch-unit.js133688809353935701 0
 129F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\childnode-remove.js133688809354017865 0
 133F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\css-display-contents.js133688809355672203 0
-97F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.d459e38b.css.map133688823771285367 0
+97F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.d459e38b.css.map133728775766622612 0
 122F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\classlist.js133688809354257883 0
 144F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\client-hints-dpr-width-viewport.js133688809354257883 0
 122F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\clipboard.js133688809354257883 0
@@ -4284,14 +4240,12 @@
 125F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\css3-cursors.js133688809357419747 0
 125F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\css3-tabsize.js133688809357499767 0
 125F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\currentcolor.js133688809357499767 0
-98F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\gallery.50e824a2.js.map133688822212416733 0
 128F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\custom-elements.js133688809357499767 0
 124F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\customevent.js133688809357579761 0
 120F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\datauri.js133688809357659797 0
 128F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\offscreencanvas.js133688809361385336 0
 135F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@swc\helpers\esm\_object_without_properties_loose.js133688809355672203 0
 136F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\date-tolocaledatestring.js133688809357659797 0
-93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.ab12f813.css133688822210649036 0
 123F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\decorators.js133688809357739783 0
 122F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@swc\helpers\src\_wrap_native_super.mjs133688809359515858 0
 129F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\devicepixelratio.js133688809357739783 0
@@ -4327,7 +4281,7 @@
 127F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\feature-policy.js133688809358304564 0
 118F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\fetch.js133688809358384572 0
 120F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\fileapi.js133688809358464566 0
-93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.26efd606.css133688823770585207 0
+93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.26efd606.css133728775766342552 0
 123F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\filereader.js133688809358464566 0
 123F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\filesystem.js133688809358464566 0
 134F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\font-family-system-ui.js133688809358626964 0
@@ -4346,7 +4300,7 @@
 121F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@swc\helpers\esm\_apply_decs_2203_r.js133688809353935701 0
 122F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\gyroscope.js133688809359111511 0
 123F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\hashchange.js133688809359191525 0
-106F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\pages\gallery\index.698ceba0.js133688823770585207 0
+106F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\pages\gallery\index.698ceba0.js133728775766532595 0
 117F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\hevc.js133688809359191525 0
 118F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\http3.js133688809359353592 0
 127F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\iframe-sandbox.js133688809359433652 0
@@ -4407,10 +4361,8 @@
 123F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\nav-timing.js133688809361140530 0
 120F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\netinfo.js133688809361222259 0
 127F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\object-entries.js133688809361304110 0
-93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.d97706d4.css133688822217094063 0
 151F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\restructure\prepare133688809351187037 1
 123F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\object-fit.js133688809361304110 0
-97F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.4a0863e7.css.map133688822211361003 0
 126F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\object-values.js133688809361385336 0
 116F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\ogv.js133688809361385336 0
 124F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\ol-reversed.js133688809361385336 0
@@ -4462,7 +4414,7 @@
 126F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\server-timing.js133688809362352246 0
 115F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\events\src\Disposable.js133688809344650070 0
 127F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\serviceworkers.js133688809362352246 0
-92F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\snow.d5f9bdbc.gif133688823677036701 0
+92F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\snow.d5f9bdbc.gif133728775718287008 0
 110F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\events\src\types.js133688809347094017 0
 125F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\setimmediate.js133688809362352246 0
 124F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\shadowdomv1.js133688809362432250 0
@@ -4490,13 +4442,10 @@
 136F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\upgradeinsecurerequests.js133688809363329127 0
 140F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\url-scroll-to-text-fragment.js133688809363329127 0
 116F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\url.js133688809363329127 0
-93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\img11.501d3f63.jpg133688822220264789 0
 126F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\vector-effect.js133688809363493795 0
-92F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\img4.8d7bd58a.jpg133688822219904704 0
 116F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\utils\src\prettifyTime.js133688809352186387 0
 122F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\vibration.js133688809363493795 0
 124F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\videotracks.js133688809363578958 0
-92F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\img9.e65a3c36.jpg133688822220114751 0
 137F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib133688809350673412 1
 135F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\viewport-unit-variants.js133688809363578958 0
 127F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\viewport-units.js133688809363578958 0
@@ -4526,17 +4475,17 @@
 117F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\webm.js133688809363981479 0
 137F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\utils133688809353690954 1
 119F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\webnfc.js133688809363981479 0
-114F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\send-mark-removebg-preview.b0c15015.png133688823748269707 0
+114F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\send-mark-removebg-preview.b0c15015.png133728775751384493 0
 117F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\webp.js133688809363981479 0
 137F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\workers\test\integration\workerfarm\logging.js133688809349439840 0
 125F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\webtransport.js133688809364063860 0
-101F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\WhatsApp-logo.f82c5ae0.png133688823748269707 0
+101F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\WhatsApp-logo.f82c5ae0.png133728775751384493 0
 119F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\webusb.js133688809364063860 0
 119F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\webvtt.js133688809364063860 0
 123F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\webworkers.js133688809364063860 0
-97F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.7263910b.css.map133688823771325378 0
+97F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.7263910b.css.map133728775766632617 0
 117F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\woff.js133688809364143879 0
-93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\giphy.221e563e.gif133688823677036701 0
+93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\giphy.221e563e.gif133728775718276994 0
 134F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@babel\highlight\node_modules\color-name\.npmignore133688809343823873 0
 112F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@swc\helpers\src\_dispose.mjs133688809358949793 0
 128F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\caniuse-lite\data\features\x-frame-options.js133688809364143879 0
@@ -4611,11 +4560,11 @@
 123F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@swc\helpers\_\_async_generator_delegate133688809356395088 1
 108F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@swc\helpers\esm\index.js133688809356233236 0
 113F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@swc\helpers\_\_async_iterator133688809356477260 1
-109F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\pages\about\index.75877e52.css.map133688823771295365 0
+109F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\pages\about\index.75877e52.css.map133728775766912685 0
 150F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\_transforms.js133688809346355760 0
 125F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@swc\helpers\_\_class_apply_descriptor_set133688809356638596 1
 119F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@swc\helpers\esm\_sliced_to_array.js133688809355833194 0
-93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.0139c10e.css133688823770595212 0
+93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.0139c10e.css133728775766342552 0
 128F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@swc\helpers\_\_class_apply_descriptor_update133688809356638596 1
 152F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\api\inheritance.json133688809347582667 0
 115F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@swc\helpers\_\_class_call_check133688809356638596 1
@@ -4651,7 +4600,6 @@
 102F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@swc\helpers\_\_jsx133688809357739783 1
 103F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@swc\core\spack.d.ts133688809347094017 0
 116F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@swc\helpers\_\_non_iterable_rest133688809357739783 1
-117F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\FLY4SEASON Paragliding Gudauri.3464ddca.js133688822210753461 0
 130F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@swc\helpers\_\_object_without_properties_loose133688809357819793 1
 114F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@swc\helpers\_\_sliced_to_array133688809357983154 1
 110F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@swc\helpers\_\_ts_metadata133688809358224554 1
@@ -4701,7 +4649,6 @@
 131F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@swc\helpers\esm\_is_native_reflect_construct.js133688809355510382 0
 142F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@swc\helpers\_\_class_extract_field_descriptor\package.json133688809356718596 0
 155F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@swc\helpers\_\_class_check_private_static_field_descriptor\package.json133688809356718596 0
-92F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.94e42f34.js133688822210649036 0
 128F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@swc\helpers\_\_class_call_check\package.json133688809356638596 0
 131F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data133688809349839868 1
 138F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@swc\helpers\_\_class_apply_descriptor_set\package.json133688809356638596 0
@@ -4815,11 +4762,9 @@
 127F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@babel\helper-validator-identifier\README.md133688809343502176 0
 131F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\core\lib\requests\ParcelConfigRequest.js133688809354691173 0
 119F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@swc\helpers\esm\_super_prop_base.js133688809355833194 0
-108F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\pages\about\index.aa77c914.js.map133688822211361003 0
 133F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@swc\helpers\esm\_tagged_template_literal_loose.js133688809355833194 0
 116F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@swc\helpers\esm\_to_primitive.js133688809355913200 0
 119F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@swc\helpers\esm\_to_property_key.js133688809355913200 0
-92F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\img1.de18d0b1.jpg133688822218854468 0
 105F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\logger\LICENSE133688809343085955 0
 154F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\atrule\media.js133688809353476721 0
 115F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@swc\helpers\esm\_ts_metadata.js133688809355993207 0
@@ -4869,7 +4814,6 @@
 120F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@swc\helpers\cjs\_sliced_to_array.cjs133688809352988129 0
 126F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@swc\helpers\cjs\_sliced_to_array_loose.cjs133688809352906447 0
 134F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@swc\helpers\cjs\_tagged_template_literal_loose.cjs133688809353075182 0
-97F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.6564bdc0.css.map133688822211919218 0
 110F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@swc\helpers\cjs\_throw.cjs133688809353156691 0
 120F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@swc\helpers\cjs\_to_property_key.cjs133688809353236700 0
 134F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@swc\helpers\cjs\_unsupported_iterable_to_array.cjs133688809353567346 0
@@ -4931,7 +4875,6 @@
 144F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\workers\test\integration\workerfarm\reverse-handle.js133688809350247395 0
 93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\gallery-images\img9.jpg133620457786892718 0
 146F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\workers\test\integration\workerfarm\shared-reference.js133688809350407417 0
-100F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\tiktok-logo.4090bcc8.webp133688822217374130 0
 126F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\core\test\PublicEnvironment.test.js133688809355017045 0
 113F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\workers\src\backend.js133688809344570053 0
 101F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\events\src133688809347336053 1
@@ -4959,7 +4902,7 @@
 112F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\workers\lib\Worker.js133688809351361931 0
 116F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\workers\lib\WorkerFarm.js133688809351525468 0
 126F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\workers\lib\threads\ThreadsChild.js133688809350487435 0
-93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\img20.65f71308.jpg133688823677926368 0
+93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\img20.65f71308.jpg133728775759120920 0
 127F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\workers\lib\threads\ThreadsWorker.js133688809350673412 0
 126F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\workers\lib\process\ProcessChild.js133688809349839868 0
 121F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\watcher-win32-x64\package.json133688809343663849 0
@@ -5028,7 +4971,7 @@
 110F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\utils\src\stream.js133688809353068125 0
 113F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\utils\src\TapStream.js133688809353075182 0
 112F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\utils\src\throttle.js133688809353075182 0
-97F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.b3a1c980.css.map133688823771325378 0
+97F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.b3a1c980.css.map133728775766642622 0
 109F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\utils\lib\index.js133688809351525468 0
 113F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\utils\lib\index.js.map133688809354257883 0
 108F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\types\build-ts.js133688809343743863 0
@@ -5110,7 +5053,7 @@
 139F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib\svgo\coa.js133688809348064651 0
 115F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\transformer-html\LICENSE133688809343004257 0
 111F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\transformer-html\src133688809346275751 1
-93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.b3a1c980.css133688823770595212 0
+93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.b3a1c980.css133728775766362550 0
 121F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\transformer-html\src\inline.js133688809346355760 0
 127F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\transformer-html\node_modules\srcset133688809345216805 1
 138F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\transformer-html\node_modules\srcset\index.d.ts133688809345376854 0
@@ -5187,7 +5130,6 @@
 117F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\runtime-service-worker\src133688809344488295 1
 141F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\runtime-service-worker\src\ServiceWorkerRuntime.js133688809344570053 0
 141F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\runtime-service-worker\lib\ServiceWorkerRuntime.js133688809343908199 0
-97F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.2f57d566.css.map133688822212585051 0
 120F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\runtime-react-refresh\LICENSE133688809343004257 0
 125F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\runtime-react-refresh\package.json133688809345056796 0
 167F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\pseudo-selectors\pseudos.d.ts.map133688809349196122 0
@@ -5214,13 +5156,13 @@
 138F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\runtime-js\src\helpers\browser\esm-js-loader.js133688809348226209 0
 136F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\runtime-js\src\helpers\browser\html-loader.js133688809348869598 0
 140F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\runtime-js\src\helpers\browser\import-polyfill.js133688809349278435 0
-97F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.0139c10e.css.map133688823771325378 0
+97F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.0139c10e.css.map133728775766632617 0
 113F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\runtime-js\lib\helpers133688809349519824 1
 158F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\convertStyleToAttrs.js133688809349109631 0
 121F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\runtime-js\lib\helpers\browser133688809350673412 1
 132F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\runtime-js\lib\helpers\bundle-manifest.js133688809344811851 0
 127F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\runtime-js\lib\helpers\bundle-url.js133688809345705237 0
-94F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\winter.68c35a7d.png133688823748269707 0
+94F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\winter.68c35a7d.png133728775751394485 0
 131F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\runtime-js\lib\helpers\get-worker-url.js133688809348387903 0
 118F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\runtime-js\lib\helpers\node133688809350753402 1
 120F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\runtime-js\lib\helpers\worker133688809350841608 1
@@ -5315,7 +5257,7 @@
 117F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\packager-js\src\helpers.js133688809347664607 0
 115F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\packager-js\src\utils.js133688809348789583 0
 121F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\packager-js\lib\dev-prelude.js133688809345056796 0
-88F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\pages\contact133688823771365384 1
+88F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\pages\contact133728775766922683 1
 125F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\packager-js\lib\ESMOutputFormat.js133688809346765082 0
 128F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\packager-js\lib\GlobalOutputFormat.js133688809347174049 0
 131F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\packager-js\lib\ScopeHoistingPackager.js133688809348226209 0
@@ -5325,7 +5267,6 @@
 117F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\packager-html\package.json133688809345216805 0
 107F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\packager-css\lib133688809343743863 1
 116F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\packager-css\package.json133688809345216805 0
-109F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\pages\about\index.6ee3e7a1.css.map133688822212336722 0
 107F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\packager-css\src133688809344488295 1
 158F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\replace\property\background.js133688809347824615 0
 122F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\packager-css\src\CSSPackager.js133688809344731807 0
@@ -5429,7 +5370,6 @@
 146F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\_transforms.js133688809346355760 0
 110F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\bundler-default\lib133688809343743863 1
 137F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib\parser.js133688809350487435 0
-93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.e7c2265e.css133688822211200985 0
 116F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\graph\lib\ContentGraph.js133688809347336053 0
 136F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib\style.js133688809352826452 0
 140F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib\svgo-node.js133688809352906447 0
@@ -5437,12 +5377,10 @@
 135F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib\xast.js133688809353316702 0
 136F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\core\test\fixtures\config-malformed\.parcelrc133688809344811851 0
 142F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib\svgo\config.js133688809348387903 0
-98F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\contact.a0c1c411.js.map133688822211361003 0
 150F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib\svgo\css-class-list.js133688809349359821 0
 156F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib\svgo\css-select-adapter.d.ts133688809353476721 0
 154F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib\svgo\css-select-adapter.js133688809349439840 0
 143F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib\svgo\jsAPI.d.ts133688809353476721 0
-111F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\pages\contact\index.cd092dd8.css.map133688822212585051 0
 141F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib\svgo\jsAPI.js133688809349919874 0
 112F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@mischnic\json-sourcemap\dist133688809345786688 1
 143F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib\svgo\plugins.js133688809350673412 0
@@ -5463,7 +5401,6 @@
 149F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\css\types.schema.json133688809349599840 0
 142F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\css\units.json133688809349679882 0
 155F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\api\inheritance.schema.json133688809347744604 0
-92F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\img8.a1786cbe.jpg133688822219964714 0
 136F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-svgo\node_modules\csso\CHANGELOG.md133688809351852973 0
 128F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-svgo\node_modules\csso\dist133688809349439840 1
 133F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-svgo\node_modules\csso\README.md133688809351932973 0
@@ -5492,19 +5429,16 @@
 154F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\replace\property\border.js133688809347984662 0
 159F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\replace\property\font-weight.js133688809350083610 0
 143F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\clean\Atrule.js133688809347094017 0
-94F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\summer.314a9535.png133688822220274787 0
 148F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\clean\Declaration.js133688809349919874 0
 142F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\clean\index.js133688809350167399 0
 140F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\clean\Raw.js133688809351027024 0
 141F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\clean\Rule.js133688809351107032 0
-105F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\pages\about\index.aa9be65c.css133688822211200985 0
-92F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.93a7f3ce.js133688822211200985 0
 149F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\clean\TypeSelector.js133688809351279850 0
 142F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\clean\utils.js133688809351525468 0
 147F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\clean\WhiteSpace.js133688809351692949 0
 136F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-svgo\node_modules\csso\dist\csso.js133688809349359821 0
 140F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\CHANGELOG.md133688809355337083 0
-93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\giphy.a95564ed.gif133688823674470737 0
+93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\giphy.a95564ed.gif133728775719667316 0
 132F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\data133688809355257073 1
 132F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\dist133688809350673412 1
 131F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib133688809352666428 1
@@ -5618,7 +5552,7 @@
 128F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-svgo\node_modules\.bin\svgo133688809368261195 0
 132F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-svgo\node_modules\.bin\svgo.cmd133688809368261195 0
 132F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-svgo\node_modules\.bin\svgo.ps1133688809368261195 0
-111F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\pages\contact\index.f19ee340.css.map133688823771285367 0
+111F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\pages\contact\index.f19ee340.css.map133728775766852683 0
 119F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-image\package.json133688809344488295 0
 128F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-image\lib\ImageOptimizer.js133688809343908199 0
 117F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-htmlnano\LICENSE133688809343004257 0
@@ -5647,20 +5581,18 @@
 115F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\core\test\Parcel.test.js133688809354429815 0
 175F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\pseudo\common\nthWithOfClause.js133688809353935701 0
 148F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\prefixIds.js133688809350921611 0
-100F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\youtube-logo.5b91fc4c.png133688822219254560 0
 153F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\preset-default.js133688809350941914 0
 150F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeAttrs.js133688809351107032 0
 153F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeComments.js133688809351187037 0
 159F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeElementsByAttr.js133688809351525468 0
-97F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.3a01df49.css.map133688822219254560 0
 160F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeEmptyContainers.js133688809351692949 0
 154F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeEmptyText.js133688809351772945 0
 156F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeHiddenElems.js133688809351772945 0
 153F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeMetadata.js133688809351852973 0
 157F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeRasterImages.js133688809352016605 0
-96F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\telegram.60694cf9.png133688823677926368 0
+96F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\telegram.60694cf9.png133728775759390974 0
 158F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeScriptElement.js133688809352096602 0
-93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\magda.362ab85d.jpg133688823677926368 0
+93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\magda.362ab85d.jpg133728775759120920 0
 150F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeTitle.js133688809352186387 0
 153F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeUnusedNS.js133688809352266403 0
 156F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeUselessDefs.js133688809352346400 0
@@ -5676,7 +5608,6 @@
 139F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\lib\svgo.js133688809353236700 0
 140F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\lib\types.ts133688809353602618 0
 145F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\lib\svgo\tools.js133688809353316702 0
-107F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\VID-20240126-WA0004.53abfba5.mp4133688822222085190 0
 135F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\api133688809347744604 1
 135F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\css133688809349759867 1
 144F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\package.json133688809347904629 0
@@ -5769,10 +5700,8 @@
 154F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\Nth.js133688809353855686 0
 154F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\parser\sequence.js133688809354527410 0
 157F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\Number.js133688809353935701 0
-92F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.7c0ccee6.js133688822210649036 0
 159F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\Operator.js133688809354017865 0
 162F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\Parentheses.js133688809354097866 0
-96F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\Vladimir.4195314b.png133688822217814228 0
 172F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\PseudoElementSelector.js133688809354257883 0
 161F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\StyleSheet.js133688809354691173 0
 163F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\UnicodeRange.js133688809354937037 0
@@ -5919,7 +5848,7 @@
 139F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\core\test\fixtures\invalid-target-source-missing133688809356638596 1
 140F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\core\test\fixtures\invalid-target-source-not-file133688809356638596 1
 128F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\core\test\fixtures\library-scopehoist133688809356718596 1
-93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\img11.5445f76b.jpg133688823677843642 0
+93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\img11.5445f76b.jpg133728775759130932 0
 133F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\core\test\fixtures\local-plugin-config-pkg133688809353855686 1
 121F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\core\test\fixtures\main-global133688809356718596 1
 121F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\core\test\fixtures\module-b.js133688809354017865 0
@@ -5960,7 +5889,6 @@
 113F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\core\src\AssetGraph.js133688809349599840 0
 113F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\core\src\assetUtils.js133688809350487435 0
 112F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\core\src\constants.js133688809352266403 0
-99F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\Dave Garcia.afd56b3a.png133688822219284564 0
 94F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\.bin\parcel133688809368261195 0
 114F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\core\src\Environment.js133688809352988129 0
 108F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\core\src\index.js133688809353156691 0
@@ -6010,7 +5938,7 @@
 123F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\core\lib\requests\PathRequest.js133688809354777032 0
 129F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\core\lib\requests\ValidationRequest.js133688809356153238 0
 131F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\core\lib\requests\WriteBundlesRequest.js133688809356233236 0
-111F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\IMG_20210821_165740_812.66607a51.jpg133688823748249697 0
+111F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\IMG_20210821_165740_812.66607a51.jpg133728775751374486 0
 116F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\core\lib\public\Bundle.js133688809350753402 0
 121F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\core\lib\public\BundleGraph.js133688809351187037 0
 121F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\core\lib\public\BundleGroup.js133688809351692949 0
@@ -6031,7 +5959,7 @@
 119F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\codeframe\test\fixtures\a.js133688809343992164 0
 121F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\codeframe\lib\codeframe.js.map133688809351852973 0
 107F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\cache\index.d.ts133688809348226209 0
-116F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\Screenshot 2024-05-07 112103.6c3b1598.png133688823674214675 0
+116F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\Screenshot 2024-05-07 112103.6c3b1598.png133728775719497294 0
 106F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\icons\send-mark-removebg-preview.png133583576220004496 0
 100F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\cache\lib133688809348306394 1
 109F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@parcel\cache\package.json133688809348064651 0
@@ -6072,7 +6000,6 @@
 127F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@babel\highlight\node_modules\supports-color133688809345216805 1
 138F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@babel\highlight\node_modules\supports-color\browser.js133688809343823873 0
 136F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@babel\highlight\node_modules\supports-color\index.js133688809344406069 0
-96F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.aa9ed11d.js.map133688823771325378 0
 135F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@babel\highlight\node_modules\supports-color\license133688809344893440 0
 140F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@babel\highlight\node_modules\supports-color\package.json133688809343085955 0
 129F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\@babel\highlight\node_modules\has-flag\license133688809344406069 0
@@ -6109,7 +6036,6 @@
 96F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\.bin\svgo.cmd133688809368450352 0
 96F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\.bin\svgo.ps1133688809368450352 0
 114F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\.bin\update-browserslist-db.cmd133688809368450352 0
-93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\img12.e5a67c3d.jpg133688822219974720 0
 114F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\node_modules\.bin\update-browserslist-db.ps1133688809368450352 0
 123F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\licence\0cbecbf3-a948-4b3a-b1b0-7a84bded4afa (1).webp133595399120767427 0
 91F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\licence\download.jpeg133592936442409426 0
@@ -6137,97 +6063,55 @@
 93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\gallery-images\img3.jpg133620457887429011 0
 93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\gallery-images\img7.jpg133620457784636445 0
 93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\gallery-images\img8.jpg133620457785295365 0
-105F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\pages\about\index.75877e52.css133688823770595212 0
-134F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\50407792_783981435278555_8197382256252157952_n.a57375ef.jpg133688823677926368 0
-134F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\50407792_783981435278555_8197382256252157952_n.cb6c6dfb.jpg133688822219304574 0
-96F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\about.05102cc1.js.map133688822211361003 0
-99F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\Ahmad Jurri.e39714da.png133688822218354354 0
-101F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\DJI_05544 (1).fd08e4da.mp4133688821521267168 0
-121F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\FLY4SEASON Paragliding Gudauri.3464ddca.js.map133688822211439169 0
-92F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\gela.e1b8d67f.jpg133688823674134654 0
-92F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\img7.8edf3ade.jpg133688822218404365 0
-93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\giphy.0d950e23.gif133688822218914477 0
-93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\giphy.36644516.gif133688822219734666 0
-102F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\icons8-snow-50.d0785586.png133688823674214675 0
-101F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\icons8-sun-48.7aa2ca4b.png133688822218334348 0
-101F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\icons8-sun-48.f7b8d625.png133688823748269707 0
-92F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\img1.16eba9c8.jpg133688822218504383 0
-93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\img12.24e8ce2c.jpg133688823674134654 0
-100F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\tiktok-logo.148d2162.webp133688823747159639 0
-93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\img13.270e9d23.jpg133688822220124760 0
-93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\img14.2bb7a2fa.jpg133688823677926368 0
-93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\img15.a46f83bd.jpg133688823674134654 0
-93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\img16.02727b31.jpg133688823748249697 0
-93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\img16.f625d287.jpg133688822219924707 0
-93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\img17.eee17ac8.jpg133688822220224780 0
-93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\img18.f3e35652.jpg133688822219954712 0
-93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\img19.25d68fce.jpg133688822220254776 0
-93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\img19.75830415.jpg133688823748179681 0
-93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\img20.fa48e938.jpg133688822219604633 0
-93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\img21.5e1da9f5.jpg133688822218854468 0
-93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\img21.f3f808e4.jpg133688823674134654 0
-93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\img22.2f970835.jpg133688822218514385 0
-93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\img22.9fa60a0e.jpg133688823748249697 0
-92F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\img3.5c08a795.jpg133688822219604633 0
-92F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\img4.82130b5c.jpg133688823748279704 0
-92F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\img5.7cc81288.jpg133688823677926368 0
-92F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\img6.63237061.jpg133688822219604633 0
-92F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\img7.e51b3681.jpg133688823748269707 0
-92F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\img8.aa327b0c.jpg133688823677926368 0
-92F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\img9.cc70d3c5.jpg133688823674134654 0
-111F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\IMG_20210821_165740_812.1fe91b63.jpg133688822218614406 0
-97F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.0347846b.css.map133688822211439169 0
-92F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.0dc0b7d1.js133688822211200985 0
-96F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.0dc0b7d1.js.map133688822211919218 0
-97F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.26efd606.css.map133688823771265360 0
-93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.2f57d566.css133688822212336722 0
-93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.3a01df49.css133688822218684422 0
-97F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.44062d90.css.map133688823771325378 0
-93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.4db1b1da.css133688822211200985 0
-97F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.4db1b1da.css.map133688822211839203 0
-93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.4ddbf05c.css133688823770585207 0
-92F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.57d8d9ee.js133688823770585207 0
-96F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.57d8d9ee.js.map133688823771305370 0
-93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.6564bdc0.css133688822211200985 0
-93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.8c1b13bb.css133688823770585207 0
-96F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.94e42f34.js.map133688822211361003 0
-96F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.a027dfed.js.map133688823771325378 0
-92F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.aa9ed11d.js133688823770595212 0
-93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.b04fa9c0.css133688823770595212 0
-97F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.b04fa9c0.css.map133688823771325378 0
-92F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.b86b9faa.js133688823770585207 0
-97F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.e7c2265e.css.map133688822211919218 0
-93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.ef23e972.css133688822211200985 0
-85F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.html133688823770595212 0
-112F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\Instagram_logo_2016.svg.dc5d96cb.webp133688823673385525 0
-94F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\irakli.3942747b.jpg133688823748259702 0
-93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\lasha.a96b871b.jpg133688823677926368 0
-94F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\lasha2.db999667.jpg133688823674214675 0
-95F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\licence.56fe7be1.jpg133688822217984264 0
-80F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\pages133688821502069926 1
-116F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\Screenshot 2024-05-07 111959.2172a896.png133688823677926368 0
-116F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\Screenshot 2024-05-07 111959.bea2dfe2.png133688822219514641 0
-116F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\Screenshot 2024-05-07 112103.744deba8.png133688822218664420 0
-114F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\send-mark-removebg-preview.1937c3d5.png133688822217794219 0
-102F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\site-main-logo.5bdc2c7f.png133688822217814228 0
-93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\site-main-logo.png133688823674214675 0
-101F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\smith wilson.4a8bb847.jpeg133688822217804229 0
-107F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\VID-20240126-WA0004.c1e87072.mp4133688823755636694 0
-96F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\Vladimir.eaa218af.png133688823677926368 0
-101F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\WhatsApp-logo.25770ced.png133688822218444369 0
-86F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\pages\about133688823771475410 1
-91F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\pages\fly-safety133688823771375394 1
-88F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\pages\gallery133688823771355382 1
-111F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\pages\gallery\index.24021c1d.css.map133688823771285367 0
-99F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\pages\gallery\index.html133688823770585207 0
-110F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\pages\fly-safety\index.340e04b5.css133688823770585207 0
-114F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\pages\fly-safety\index.340e04b5.css.map133688823771285367 0
-102F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\pages\fly-safety\index.html133688823770585207 0
-106F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\pages\contact\index.6061ba59.js133688822210649036 0
-107F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\pages\contact\index.cd092dd8.css133688822212336722 0
-107F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\pages\contact\index.f19ee340.css133688823770585207 0
-105F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\pages\about\index.13c7d186.css133688823770595212 0
-108F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\pages\about\index.8a0712e3.js.map133688823771305370 0
-104F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\pages\about\index.aa77c914.js133688822210649036 0
-97F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\pages\about\index.html133688823770585207 0
+105F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\pages\about\index.75877e52.css133728775766552605 0
+134F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\50407792_783981435278555_8197382256252157952_n.a57375ef.jpg133728775759120920 0
+92F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\gela.e1b8d67f.jpg133728775719497294 0
+102F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\icons8-snow-50.d0785586.png133728775719487270 0
+101F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\icons8-sun-48.f7b8d625.png133728775751384493 0
+93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\img12.24e8ce2c.jpg133728775719497294 0
+93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\img14.2bb7a2fa.jpg133728775759120920 0
+93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\img15.a46f83bd.jpg133728775719487270 0
+93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\img16.02727b31.jpg133728775751374486 0
+93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\img19.75830415.jpg133728775751384493 0
+93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\img21.f3f808e4.jpg133728775719497294 0
+93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\img22.9fa60a0e.jpg133728775751374486 0
+92F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\img4.82130b5c.jpg133728775751394485 0
+92F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\img5.7cc81288.jpg133728775759390974 0
+92F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\img7.e51b3681.jpg133728775751384493 0
+92F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\img8.aa327b0c.jpg133728775759390974 0
+92F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\img9.cc70d3c5.jpg133728775719497294 0
+97F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.26efd606.css.map133728775766622612 0
+97F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.44062d90.css.map133728775766662625 0
+93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.4ddbf05c.css133728775766342552 0
+92F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.57d8d9ee.js133728775766342552 0
+96F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.57d8d9ee.js.map133728775766622612 0
+93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.8c1b13bb.css133728775766312552 0
+96F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.a027dfed.js.map133728775766632617 0
+93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.b04fa9c0.css133728775766362550 0
+97F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.b04fa9c0.css.map133728775766632617 0
+85F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\index.html133728775766362550 0
+112F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\Instagram_logo_2016.svg.dc5d96cb.webp133728775719477264 0
+94F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\irakli.3942747b.jpg133728775751374486 0
+93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\lasha.a96b871b.jpg133728775759380974 0
+94F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\lasha2.db999667.jpg133728775719487270 0
+80F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\pages133728775766262529 1
+116F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\Screenshot 2024-05-07 111959.2172a896.png133728775759380974 0
+93F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\site-main-logo.png133728775719537282 0
+100F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\tiktok-logo.148d2162.webp133728775750934387 0
+107F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\VID-20240126-WA0004.c1e87072.mp4133728775760261173 0
+96F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\Vladimir.eaa218af.png133728775759380974 0
+86F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\pages\about133728775766942691 1
+91F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\pages\fly-safety133728775766912685 1
+88F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\pages\gallery133728775766912685 1
+111F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\pages\gallery\index.24021c1d.css.map133728775766882669 0
+99F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\pages\gallery\index.html133728775766392556 0
+110F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\pages\fly-safety\index.340e04b5.css133728775766532595 0
+114F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\pages\fly-safety\index.340e04b5.css.map133728775766842666 0
+102F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\pages\fly-safety\index.html133728775766392556 0
+106F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\pages\contact\index.b86b9faa.js133728775766532595 0
+110F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\pages\contact\index.b86b9faa.js.map133728775766852683 0
+107F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\pages\contact\index.f19ee340.css133728775766532595 0
+105F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\pages\about\index.13c7d186.css133728775766552605 0
+108F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\pages\about\index.8a0712e3.js.map133728775766912685 0
+97F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\dist\pages\about\index.html133728775766392556 0
 91F:\desktop\1. Projects\finish projects\FLY4SEASON Paragliding Gudauri\.vscode\settings.json133563583156730610 0

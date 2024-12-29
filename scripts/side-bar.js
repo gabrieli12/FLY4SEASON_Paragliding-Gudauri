@@ -14,12 +14,4 @@ sideMenuExitBtn.addEventListener('click', () => {
 })
 
 
-// burgerMenu.addEventListener('click', () => {
-//     isOpen = !isOpen
-//     if(isOpen == true){
-//         sideBar.style.transform = 'translateX(0)'
-//     }else{
-//         sideBar.style.transform = 'translateX(-120%)'
-//     }
-// })
 
